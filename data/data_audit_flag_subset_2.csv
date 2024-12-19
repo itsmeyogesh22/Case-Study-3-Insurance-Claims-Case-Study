@@ -1,0 +1,1079 @@
+,customer_id,gender,DateOfBirth,State,Contact,Segment,claim_id,incident_cause,claim_date,claim_area,police_report,claim_type,claim_amount,total_policy_claims,fraudulent,flag
+0,21868593,Female,1979-01-12,VT,789-916-8172,Platinum,54004764,Driver error,2017-11-27,Auto,No,Material only,2980.0,1,No,1
+1,75740424,Female,1970-01-13,ME,265-543-1264,Silver,33985796,Crime,2018-10-03,Home,Unknown,Material only,2980.0,3,No,0
+3,30308357,Female,1984-03-11,TN,798-631-4758,Silver,63017412,Driver error,2018-04-04,Auto,No,Material only,1950.0,6,No,1
+5,47830476,Female,1986-05-01,MA,413-187-7945,Silver,91609100,Natural causes,2017-04-12,Auto,Unknown,Material only,1440.0,1,No,0
+7,19269962,Male,1977-05-13,NV,956-871-8691,Gold,39219616,Other causes,2018-09-26,Auto,No,Material only,2240.0,2,No,1
+9,21831191,Male,1977-05-17,NH,419-712-8513,Gold,91475471,Driver error,2018-02-09,Auto,Unknown,Material and injury,36810.0,1,No,0
+10,18401412,Male,1999-03-02,AR,752-398-2914,Gold,12878692,Driver error,2018-01-13,Auto,No,Material only,1730.0,4,No,1
+11,73486606,Male,1999-10-25,AK,256-968-9172,Silver,27026412,Natural causes,2018-04-10,Auto,No,Material only,1160.0,3,No,1
+12,32813689,Male,1993-10-12,ID,142-324-7481,Silver,43908336,Crime,2018-02-15,Auto,Unknown,Material only,2620.0,1,No,0
+13,33507197,Female,1966-09-09,RI,165-519-4583,Gold,63246959,Crime,2017-07-22,Auto,No,Material only,2748.5,2,Yes,1
+14,99103685,Female,1985-12-30,KY,764-439-9856,Gold,74165873,Other driver error,2018-01-13,Home,No,Material only,1495.0,1,Yes,1
+15,51583214,Male,1999-10-31,NH,743-486-5264,Platinum,28564401,Other driver error,2017-12-10,Auto,Unknown,Material and injury,16690.0,1,No,0
+16,35875366,Male,1990-09-16,MD,954-964-1746,Platinum,72738047,Other driver error,2018-04-24,Auto,Unknown,Material only,1870.0,1,No,0
+17,21240703,Male,1963-07-22,MD,473-561-2675,Silver,53780662,Other driver error,2018-09-19,Auto,Unknown,Material only,1050.0,1,No,0
+18,18288638,Female,1969-01-14,MI,314-135-1359,Platinum,67257404,Other driver error,2018-04-24,Auto,Yes,Injury only,32560.0,1,No,1
+19,63240241,Male,1977-07-26,ME,843-379-4796,Silver,35489765,Natural causes,2018-10-03,Auto,No,Material only,2870.0,1,No,1
+20,1407979,Male,1987-03-15,RI,165-217-1648,Silver,12548447,Driver error,2018-06-03,Auto,Unknown,Material only,3208.5,1,Yes,0
+21,63916778,Male,1966-09-07,IL,146-157-4572,Platinum,7809917,Other causes,2017-07-22,Auto,No,Injury only,17800.0,1,No,1
+22,17004138,Female,1965-08-13,WA,436-354-4682,Silver,29205389,Natural causes,2017-06-25,Auto,No,Injury only,31380.0,1,No,1
+23,9667764,Female,1979-10-10,SC,643-978-8251,Platinum,19051665,Other causes,2017-12-17,Auto,Yes,Injury only,36190.0,1,No,1
+24,75584003,Female,1967-04-22,OK,723-418-3248,Silver,32630720,Crime,2017-02-03,Auto,No,Material only,12467.68,1,No,1
+25,90012444,Male,1974-08-08,KS,749-961-7265,Platinum,17910612,Other driver error,2017-08-24,Auto,No,Material only,1010.0,1,No,1
+26,10665308,Male,1999-06-21,CT,324-971-8395,Silver,46956597,Natural causes,2018-07-20,Auto,No,Material only,12467.68,1,No,1
+27,35597589,Female,1980-02-17,IN,826-731-3964,Gold,68848682,Other driver error,2017-05-29,Auto,Yes,Injury only,16830.0,1,No,1
+28,1924109,Male,1981-12-13,UT,431-179-6475,Gold,8782253,Driver error,2017-09-14,Auto,No,Material only,1690.0,1,No,1
+29,12871942,Female,1995-04-01,IN,591-436-5176,Platinum,41262918,Natural causes,2017-04-25,Auto,No,Material only,2830.0,1,No,1
+30,32155446,Male,1985-05-07,AZ,847-936-7645,Gold,71088680,Driver error,2017-12-24,Auto,No,Material and injury,32640.0,4,No,1
+31,35876516,Male,1996-10-29,IL,496-426-6748,Silver,54764639,Driver error,2018-08-10,Auto,No,Material only,2870.0,1,No,1
+32,13265356,Female,1962-07-27,IA,462-587-7532,Silver,52278305,Driver error,2017-10-17,Home,No,Material only,1210.0,1,No,1
+33,80379865,Male,1969-02-27,NM,427-513-8479,Gold,18210740,Natural causes,2018-02-09,Auto,No,Injury only,18580.0,1,No,1
+34,64899302,Male,1994-07-17,WI,784-623-7631,Platinum,22215431,Other driver error,2018-06-23,Auto,No,Material only,2630.0,1,No,1
+35,11278282,Male,1968-04-12,RI,148-178-1792,Silver,10738822,Natural causes,2018-08-10,Auto,No,Material only,2540.0,1,No,1
+36,90425966,Male,1971-12-23,WY,942-259-7583,Silver,7800059,Driver error,2018-03-01,Auto,No,Material only,2320.0,1,No,1
+37,70459181,Female,1988-09-03,NY,493-937-8297,Platinum,16773361,Other driver error,2017-10-10,Auto,No,Material only,2725.5,1,Yes,1
+38,91546921,Male,1974-09-22,LA,496-784-4836,Platinum,99427250,Crime,2018-05-21,Home,No,Material only,2070.0,1,No,1
+39,26489135,Male,1994-10-05,DE,654-456-1493,Platinum,70399158,Driver error,2017-07-01,Auto,No,Material only,1110.0,1,No,1
+40,76422302,Male,1989-06-04,GA,958-971-7983,Gold,5481268,Crime,2017-10-31,Home,No,Material only,1030.0,1,No,1
+41,27205554,Male,1976-04-12,RI,521-912-8139,Silver,13167216,Driver error,2018-05-14,Auto,No,Injury only,16910.0,1,No,1
+42,60225946,Female,1977-08-27,OH,715-356-4572,Gold,30942972,Other causes,2017-02-17,Auto,No,Material only,1890.0,1,No,1
+43,34790013,Male,1979-01-17,NY,935-615-6297,Platinum,13578273,Other driver error,2017-12-24,Auto,Yes,Material and injury,33040.0,5,No,1
+44,53333796,Male,1990-05-23,RI,857-215-9123,Gold,22639991,Other causes,2018-10-09,Auto,Yes,Material and injury,25320.0,1,No,1
+45,28307541,Male,1981-12-14,WY,763-156-1836,Gold,73894966,Driver error,2017-11-27,Auto,No,Material only,2340.0,1,No,1
+46,85536059,Female,1975-04-26,SD,145-285-4675,Platinum,64959397,Other driver error,2017-04-25,Auto,Yes,Material and injury,33000.0,2,No,1
+47,54642094,Male,1995-08-10,NY,963-813-1973,Silver,3673097,Driver error,2017-04-12,Auto,No,Injury only,19960.0,1,No,1
+48,47091036,Male,1986-10-22,SD,247-436-8713,Gold,58245818,Driver error,2018-07-27,Home,No,Injury only,27230.0,1,No,1
+49,48277275,Male,1996-03-27,WV,928-469-4368,Silver,83744906,Other driver error,2017-04-12,Auto,No,Material and injury,16150.0,1,No,1
+50,75252854,Male,1995-08-30,NH,542-927-5413,Gold,14836805,Other driver error,2017-02-23,Auto,Yes,Injury only,32630.0,1,No,1
+51,31012778,Female,1993-06-09,MA,328-683-8359,Gold,28636278,Other causes,2018-03-01,Auto,No,Material only,12467.68,5,Yes,1
+52,84571128,Female,1995-08-16,ME,946-639-5932,Gold,96749077,Natural causes,2017-05-15,Auto,No,Material only,12467.68,1,Yes,1
+53,38286862,Female,1994-11-24,NJ,791-831-2514,Gold,40638641,Other causes,2017-10-31,Auto,Unknown,Material and injury,41850.0,1,No,0
+54,1163515,Female,1995-02-03,TX,978-352-7634,Silver,94303580,Crime,2017-04-25,Auto,Yes,Injury only,30540.0,1,No,1
+55,18361978,Female,1994-07-10,CA,463-645-2453,Platinum,39647651,Other causes,2017-08-31,Auto,Unknown,Material and injury,25576.0,7,Yes,0
+56,94953428,Female,1977-12-07,DE,671-517-9548,Gold,97983922,Other causes,2017-06-18,Auto,No,Material only,2210.0,3,No,1
+57,42333031,Female,1970-10-25,WV,972-361-7416,Platinum,42420540,Other causes,2018-02-22,Auto,Yes,Material and injury,40820.0,3,No,1
+58,91786228,Female,1963-12-26,TN,826-243-9763,Gold,25108581,Other driver error,2018-06-23,Auto,No,Material only,1150.0,1,Yes,1
+59,61051505,Male,1968-02-05,OH,649-461-2967,Platinum,54192772,Other driver error,2017-07-01,Auto,Unknown,Material and injury,35765.0,1,Yes,0
+60,8132649,Male,1975-09-23,SD,436-953-6352,Platinum,47783756,Other driver error,2017-11-20,Auto,No,Material only,2470.0,1,No,1
+61,49428676,Female,1977-09-27,TX,587-946-2153,Silver,14730852,Other causes,2018-06-17,Auto,No,Material and injury,20999.0,1,Yes,1
+62,77436411,Female,1964-05-06,TN,679-324-1357,Platinum,37727681,Other driver error,2018-02-02,Auto,Unknown,Material only,3358.0,4,Yes,0
+63,44319192,Male,1968-11-07,NC,432-234-3617,Platinum,87229793,Other causes,2018-04-10,Auto,Yes,Material and injury,41430.0,1,No,1
+64,57510487,Male,1984-01-24,UT,512-657-2135,Gold,73138939,Driver error,2017-12-10,Auto,No,Material only,1730.0,1,No,1
+65,62797342,Male,1989-05-01,MA,348-186-6349,Gold,23504103,Other driver error,2018-02-09,Auto,Unknown,Material and injury,20360.0,1,No,0
+66,56923917,Female,1971-08-10,IL,451-134-7825,Silver,29613369,Other driver error,2018-05-21,Auto,No,Material only,2870.0,4,No,1
+67,83088652,Male,1998-10-05,MD,968-236-9367,Platinum,21972507,Driver error,2017-01-14,Auto,Unknown,Material only,2910.0,1,No,0
+68,53087364,Female,1990-07-30,AK,462-412-7423,Platinum,42737631,Other causes,2017-07-22,Home,No,Material and injury,33550.0,1,No,1
+69,9089663,Male,1960-09-09,MT,763-973-2741,Silver,95352573,Other driver error,2017-11-20,Auto,No,Material and injury,33190.0,1,No,1
+70,83290720,Male,1966-12-06,VA,185-825-6547,Gold,43973221,Driver error,2018-09-26,Auto,Yes,Material and injury,12467.68,1,No,1
+71,78364565,Female,1961-08-07,NM,862-483-5218,Silver,79089153,Other causes,2017-02-10,Auto,Yes,Injury only,25830.0,3,No,1
+72,99761663,Female,1963-11-18,NC,643-246-4718,Silver,37305754,Natural causes,2018-04-04,Auto,No,Material only,1242.0,1,Yes,1
+73,6298259,Female,1969-05-30,AZ,712-891-4759,Silver,55252454,Natural causes,2017-05-29,Auto,Unknown,Material and injury,20080.0,2,No,0
+74,51936868,Male,1988-05-29,OR,538-723-7261,Gold,20332975,Natural causes,2018-08-16,Auto,No,Material only,2120.0,1,No,1
+75,35907845,Male,1972-06-22,IA,384-637-2368,Platinum,69101899,Crime,2018-05-14,Auto,Unknown,Material and injury,19520.0,1,No,0
+76,17390816,Female,1987-09-03,UT,269-384-1923,Gold,49234022,Natural causes,2017-03-29,Auto,No,Material only,2090.0,1,No,1
+77,9908654,Male,1964-02-18,AL,179-894-5412,Platinum,85585944,Other driver error,2018-06-23,Auto,No,Material only,1989.5,1,Yes,1
+78,47228798,Male,1974-05-18,HI,364-634-3715,Platinum,35407789,Crime,2017-01-21,Auto,Unknown,Material only,12467.68,1,Yes,0
+79,11593991,Female,1965-12-22,RI,642-812-6451,Silver,26332402,Other causes,2018-03-01,Auto,No,Material only,2060.0,1,No,1
+80,15036122,Male,1988-03-30,IA,893-237-4791,Silver,50337100,Other driver error,2018-07-20,Auto,Unknown,Injury only,30080.0,1,No,0
+81,59046302,Male,1994-01-15,NY,854-356-9378,Silver,1886311,Driver error,2018-04-04,Auto,No,Material only,1680.0,6,No,1
+82,74058124,Male,1990-11-12,WV,172-685-2746,Silver,84635473,Driver error,2018-01-13,Auto,Unknown,Injury only,21505.0,1,Yes,0
+83,95221640,Male,1967-07-13,MD,712-754-5719,Silver,99210077,Crime,2018-05-21,Auto,No,Material only,2040.0,1,No,1
+84,5956033,Female,1993-07-07,WY,984-397-3427,Silver,57876931,Other driver error,2018-02-09,Auto,No,Material and injury,12467.68,1,Yes,1
+85,91462331,Male,1986-05-02,SD,163-429-1675,Platinum,11951632,Driver error,2018-02-15,Auto,Unknown,Material and injury,42722.5,1,Yes,0
+86,7946799,Female,1976-03-10,MT,645-968-6519,Gold,61170397,Other causes,2018-07-27,Auto,Unknown,Material and injury,34971.5,5,Yes,0
+87,83884401,Male,1992-03-13,ND,947-962-9473,Gold,66546485,Driver error,2017-05-22,Auto,No,Material only,1288.0,1,Yes,1
+88,36498462,Female,1987-09-10,WV,635-136-5671,Silver,62769771,Driver error,2017-06-11,Auto,Yes,Injury only,37800.0,1,No,1
+89,88191021,Male,1986-07-11,HI,915-523-3148,Platinum,87452238,Driver error,2017-10-04,Auto,Yes,Material only,12467.68,1,No,1
+90,88567908,Female,1971-09-26,MN,817-685-2347,Gold,99573716,Driver error,2017-01-27,Auto,No,Material only,1180.0,1,No,1
+91,72896975,Male,1970-02-26,AL,813-784-4983,Gold,39128289,Other driver error,2017-07-08,Auto,Unknown,Material and injury,32480.0,1,No,0
+92,85650096,Male,1967-01-29,MO,954-368-9137,Gold,64573390,Crime,2018-08-03,Auto,No,Material only,2710.0,1,No,1
+93,51349085,Male,1997-06-06,RI,258-762-9482,Silver,2181243,Crime,2017-10-17,Auto,No,Material only,2620.0,2,No,1
+94,90202451,Male,1989-07-04,KY,413-642-7842,Platinum,51685791,Other driver error,2017-11-20,Auto,No,Material only,1943.5,1,Yes,1
+95,55180831,Male,1962-02-21,MT,482-319-5783,Gold,1633198,Other driver error,2017-09-07,Auto,No,Material and injury,12467.68,1,No,1
+96,14433043,Female,1971-06-13,UT,314-341-6783,Gold,15165423,Driver error,2018-06-30,Auto,Yes,Material only,2170.0,5,No,1
+97,56590042,Male,1967-01-12,AL,254-651-9452,Silver,76552623,Other causes,2017-11-06,Auto,No,Injury only,31498.5,4,Yes,1
+98,43870673,Male,1985-06-21,KS,428-238-4918,Gold,64731876,Other causes,2017-05-22,Auto,Unknown,Material only,1700.0,1,No,0
+99,84734050,Male,1960-04-21,VA,974-457-9312,Silver,95376481,Crime,2018-05-28,Auto,Unknown,Material only,2220.0,1,No,0
+100,73246256,Female,1984-10-18,IN,146-597-5429,Platinum,21229844,Crime,2017-11-13,Auto,No,Material only,1020.0,1,No,1
+101,2632562,Female,1985-12-14,AK,498-597-9658,Platinum,4506676,Other driver error,2018-05-14,Home,Unknown,Material only,1400.0,1,No,0
+102,74125758,Male,1961-01-04,LA,876-786-8624,Gold,712628,Other causes,2017-11-27,Auto,Unknown,Injury only,22960.0,1,No,0
+103,92752865,Male,1986-01-30,AK,143-219-5498,Silver,82144259,Driver error,2017-04-25,Auto,No,Injury only,12467.68,1,No,1
+104,47086007,Female,1997-12-10,NC,347-618-5821,Gold,93009471,Other causes,2017-03-09,Auto,Yes,Injury only,18400.0,1,No,1
+105,33987747,Male,1973-05-23,MO,719-927-1936,Platinum,23721504,Driver error,2017-01-14,Auto,No,Material and injury,37524.5,1,Yes,1
+106,37312925,Male,1963-01-12,KS,274-346-6391,Gold,43899763,Driver error,2017-10-31,Auto,Yes,Injury only,16070.0,1,No,1
+107,13233814,Female,1962-06-01,AR,583-753-8415,Platinum,4821698,Other causes,2017-07-08,Auto,Unknown,Material and injury,17230.0,1,No,0
+108,32561536,Male,1982-09-18,MI,718-215-2831,Platinum,34488157,Natural causes,2017-11-06,Auto,No,Material and injury,24564.0,1,Yes,1
+109,73456835,Female,1978-12-31,CO,376-294-4612,Silver,79953107,Other driver error,2018-10-16,Auto,No,Material only,2599.0,1,Yes,1
+110,84767457,Female,1996-11-14,AZ,964-984-9257,Platinum,77727200,Driver error,2017-12-03,Auto,Unknown,Material and injury,23740.0,1,No,0
+111,31901720,Male,1963-11-29,CA,574-674-6381,Silver,33038715,Crime,2018-03-21,Auto,No,Material only,1510.0,1,No,1
+112,67885239,Female,1966-09-17,AL,682-368-5823,Platinum,10744544,Driver error,2018-05-28,Auto,No,Material only,2740.0,1,No,1
+113,94448966,Female,1984-06-20,MD,845-768-2513,Gold,67043170,Other driver error,2018-10-16,Auto,No,Injury only,23760.0,1,No,1
+114,94633091,Female,1990-07-14,RI,826-537-1348,Platinum,98303926,Crime,2017-06-25,Auto,No,Material only,1640.0,1,No,1
+115,90116906,Male,1970-09-14,SD,645-465-4938,Platinum,84863978,Driver error,2017-11-13,Auto,No,Injury only,23270.0,6,No,1
+116,82832313,Male,1980-07-21,NC,679-793-3672,Silver,48203523,Other driver error,2017-12-03,Auto,Yes,Injury only,29060.0,1,No,1
+117,87993949,Male,1969-05-29,NJ,754-586-4891,Platinum,73460630,Other causes,2018-06-23,Auto,Unknown,Injury only,25783.0,2,Yes,0
+118,61810954,Male,1969-05-18,TX,724-493-6179,Silver,65335959,Other driver error,2018-09-19,Auto,Unknown,Material and injury,36620.0,1,No,0
+119,55782839,Female,1998-02-07,ND,918-849-3279,Gold,38446319,Other causes,2017-12-17,Auto,Unknown,Injury only,21300.0,1,No,0
+120,39587790,Male,1965-01-10,LA,615-154-3516,Gold,39131766,Other causes,2017-01-01,Auto,No,Material only,2967.0,1,Yes,1
+121,14293434,Female,1995-01-25,IL,269-431-3781,Platinum,9961723,Other driver error,2017-05-22,Home,No,Material and injury,44493.5,1,Yes,1
+122,46620413,Male,1991-12-11,DE,164-158-7981,Platinum,8405500,Other causes,2017-03-02,Auto,Unknown,Material only,3070.5,1,Yes,0
+123,53798973,Female,1980-11-19,TN,732-893-6125,Silver,58103215,Other driver error,2018-05-01,Auto,No,Material only,2560.0,1,No,1
+124,15556454,Male,1996-09-01,OK,952-296-8234,Silver,7316148,Crime,2018-03-14,Auto,No,Material only,2070.0,1,No,1
+125,61497833,Male,1995-08-06,WV,179-439-6237,Platinum,35026470,Other driver error,2017-11-06,Auto,No,Material only,1759.5,4,Yes,1
+126,92889077,Female,1963-03-08,AR,975-548-7142,Gold,57560277,Natural causes,2018-03-08,Home,No,Material only,1771.0,5,Yes,1
+127,19171044,Female,1979-02-06,WI,281-597-6245,Platinum,19911335,Driver error,2017-04-12,Auto,Yes,Injury only,17360.0,1,No,1
+128,93291407,Male,1970-05-08,FL,945-839-1768,Gold,54506772,Other driver error,2017-07-28,Auto,Unknown,Material only,1368.5,1,Yes,0
+129,96710523,Male,1980-05-29,WY,846-174-8946,Silver,11618238,Other causes,2018-03-21,Home,Yes,Injury only,19240.0,1,No,1
+130,52542420,Female,1970-07-25,CA,371-247-1395,Silver,46248222,Other driver error,2018-04-10,Auto,No,Material and injury,14260.0,2,No,1
+131,37741743,Female,1982-07-16,ME,327-256-9257,Gold,13774284,Natural causes,2018-03-08,Auto,No,Material only,1350.0,1,No,1
+132,48145469,Male,1973-05-22,IA,946-341-3157,Silver,30488859,Other causes,2018-04-10,Auto,Unknown,Material only,1860.0,1,No,0
+133,25709472,Male,1993-01-15,KY,534-697-3498,Gold,52959888,Other driver error,2018-10-23,Auto,Unknown,Injury only,15440.0,1,No,0
+134,58402401,Male,1979-06-13,KS,134-129-8167,Silver,4112041,Other causes,2018-09-12,Auto,Unknown,Material and injury,32710.0,1,No,0
+135,23092790,Female,1982-04-21,NE,362-847-6954,Platinum,12179959,Crime,2018-08-03,Auto,Unknown,Material only,1380.0,1,No,0
+136,62476442,Female,1985-06-27,HI,528-237-8379,Silver,59404655,Natural causes,2017-05-15,Auto,No,Material and injury,12467.68,2,No,1
+137,39943087,Female,1988-11-11,NY,473-567-7234,Platinum,5176652,Other driver error,2017-03-16,Auto,Unknown,Material only,2510.0,1,No,0
+138,41265642,Male,1989-09-29,IA,912-385-7549,Gold,1657284,Crime,2017-07-22,Auto,No,Material only,12467.68,1,Yes,1
+139,73383008,Female,1986-06-04,AZ,594-592-6745,Gold,72074471,Other driver error,2018-02-09,Auto,Unknown,Injury only,44700.5,1,Yes,0
+140,77896466,Female,1997-02-16,IL,613-614-1378,Gold,36664338,Driver error,2017-12-17,Auto,No,Material only,1550.0,1,No,1
+141,83526368,Female,1979-03-16,MA,468-698-7189,Platinum,50826770,Crime,2018-10-03,Auto,Unknown,Material only,1850.0,3,No,0
+142,31439710,Female,1988-03-11,GA,824-246-5734,Gold,64209730,Other driver error,2018-07-20,Home,No,Material only,2760.0,1,No,1
+143,30227653,Female,1981-08-01,CT,945-734-2691,Silver,49955266,Other driver error,2017-09-07,Auto,No,Material only,2740.0,1,No,1
+144,86993944,Male,1982-03-17,WI,596-612-5431,Silver,44581152,Other driver error,2017-12-30,Auto,Unknown,Injury only,26480.0,1,No,0
+145,65728108,Male,1984-11-22,SC,438-675-4587,Platinum,32116508,Other causes,2018-10-09,Auto,Unknown,Material and injury,47610.0,3,Yes,0
+146,45539668,Male,1998-04-08,MS,613-276-2471,Silver,48559754,Other driver error,2017-12-30,Auto,No,Material only,2170.0,1,No,1
+147,3159546,Male,1987-10-20,TX,586-129-9752,Platinum,26716331,Other driver error,2017-04-25,Auto,No,Injury only,17590.0,4,No,1
+148,88449349,Male,1979-12-17,WA,975-547-5196,Platinum,74738945,Other causes,2018-09-12,Auto,No,Material only,1080.0,1,No,1
+149,35937389,Female,1978-07-31,AZ,971-841-3152,Silver,30532684,Natural causes,2017-02-23,Auto,Unknown,Material only,2610.0,2,No,0
+150,19441247,Female,1974-06-10,WV,439-538-7538,Platinum,81488988,Natural causes,2017-07-22,Auto,No,Material only,1320.0,1,No,1
+151,7208859,Female,1991-02-15,OK,372-267-3189,Gold,71767146,Crime,2017-07-01,Auto,No,Material only,1840.0,1,No,1
+152,65950591,Male,1969-01-25,NH,543-543-2549,Silver,67042203,Driver error,2017-01-14,Auto,No,Material only,2970.0,1,No,1
+153,2327487,Male,1999-02-08,AZ,215-589-3761,Platinum,66578763,Driver error,2018-05-07,Auto,No,Material only,12467.68,5,No,1
+154,30722342,Male,1999-04-04,OH,316-863-5832,Silver,30930636,Driver error,2018-04-04,Home,Yes,Injury only,17180.0,5,No,1
+155,31289360,Male,1998-11-15,GA,869-486-1267,Gold,30119116,Other driver error,2017-02-23,Auto,No,Material only,2720.0,1,No,1
+156,24826170,Male,1987-03-05,WA,361-476-4591,Gold,45189268,Driver error,2017-07-08,Auto,No,Material only,2700.0,1,No,1
+157,14860484,Male,1994-12-02,OK,864-361-2564,Gold,5567470,Other causes,2017-03-29,Auto,Unknown,Injury only,14240.0,4,No,0
+158,39642700,Female,1985-06-13,IN,745-342-2471,Silver,46868258,Driver error,2017-12-10,Auto,No,Material only,2560.0,3,No,1
+159,3689105,Female,1999-03-23,NE,923-198-9827,Silver,74988783,Crime,2017-04-18,Auto,Yes,Injury only,19440.0,4,No,1
+160,58850120,Female,1960-07-23,UT,819-478-8453,Platinum,80080381,Crime,2017-02-23,Auto,Yes,Material and injury,40180.0,1,No,1
+161,76965994,Male,1960-03-28,NY,132-927-9824,Gold,50617945,Crime,2017-03-09,Auto,No,Material only,1260.0,1,No,1
+162,14490971,Female,1976-12-10,MN,614-652-1274,Silver,3589979,Crime,2018-09-19,Auto,No,Material only,1880.0,4,No,1
+163,88277241,Male,1976-04-27,NV,684-482-6745,Platinum,33643946,Other causes,2017-07-08,Auto,Unknown,Injury only,12467.68,1,Yes,0
+164,87386746,Male,1982-12-23,ND,741-473-8976,Gold,71464126,Other causes,2018-07-20,Auto,No,Material only,2260.0,1,No,1
+165,55157616,Female,1967-10-21,MN,136-736-1978,Gold,19241230,Other driver error,2017-04-25,Auto,No,Material only,2960.0,1,No,1
+166,55593844,Female,1965-03-02,NC,129-925-2819,Gold,8499165,Other causes,2017-07-22,Auto,No,Material only,1253.5,1,Yes,1
+167,72556809,Male,1998-01-14,ID,582-928-4938,Platinum,65264955,Other causes,2018-08-16,Auto,Yes,Material and injury,32300.0,2,No,1
+168,45653187,Male,1963-05-22,AL,836-247-1264,Silver,66703144,Natural causes,2018-04-04,Home,No,Material only,1660.0,1,No,1
+169,48538925,Female,1967-09-25,NE,378-563-3695,Gold,66892177,Other causes,2017-06-04,Auto,No,Injury only,22420.0,1,No,1
+170,68724425,Male,1961-10-06,VA,389-769-2197,Gold,75262517,Natural causes,2018-06-10,Auto,No,Material only,2150.0,3,No,1
+171,50817031,Male,1963-11-17,MI,728-483-4185,Gold,7883163,Crime,2018-01-26,Auto,Unknown,Material only,2460.0,1,No,0
+172,16836323,Male,1970-12-22,MS,398-364-9741,Gold,88126193,Crime,2017-01-14,Auto,No,Material only,1140.0,4,No,1
+173,72701589,Female,1994-08-23,AR,745-968-1753,Silver,57237955,Driver error,2018-07-20,Auto,No,Material only,12467.68,1,No,1
+174,88126167,Female,1993-12-22,IA,691-739-8963,Gold,26752193,Crime,2017-04-18,Auto,Unknown,Injury only,17050.0,1,No,0
+175,50642114,Female,1961-12-06,FL,925-298-5137,Gold,94297538,Other driver error,2018-01-06,Auto,Unknown,Injury only,25030.0,1,No,0
+176,32180678,Male,1985-02-24,KS,975-682-7836,Platinum,90714815,Other causes,2017-08-11,Auto,Unknown,Material and injury,12467.68,4,No,0
+177,74155265,Male,1985-11-16,TX,392-739-4873,Gold,25647821,Natural causes,2017-01-01,Auto,No,Material only,2080.0,1,No,1
+178,26168099,Male,1995-10-27,NC,325-687-3651,Silver,56330110,Natural causes,2018-05-07,Auto,No,Injury only,38590.0,3,No,1
+179,804961,Female,1997-12-07,AL,487-723-4167,Gold,87184588,Other causes,2017-10-10,Auto,No,Material and injury,21190.0,1,No,1
+180,25823839,Male,1971-12-27,ME,678-925-6195,Silver,18636027,Driver error,2017-10-10,Auto,Unknown,Injury only,36180.0,1,No,0
+181,61745840,Female,1994-07-24,MA,612-684-5472,Platinum,90591192,Other driver error,2017-01-01,Home,No,Material and injury,30930.0,1,No,1
+182,86024944,Female,1974-08-01,AZ,742-298-4693,Silver,18700750,Other driver error,2017-07-15,Auto,Unknown,Material and injury,47679.0,2,Yes,0
+183,40080423,Female,1969-09-13,NY,769-451-9372,Gold,72789616,Other driver error,2018-08-30,Auto,Unknown,Material only,2440.0,1,No,0
+184,14275512,Male,1971-06-24,MI,362-839-2153,Platinum,19132019,Driver error,2018-10-09,Auto,Unknown,Injury only,28060.0,1,No,0
+185,70442756,Female,1963-06-16,VA,174-415-5381,Platinum,21361160,Natural causes,2018-01-06,Auto,No,Material only,1850.0,1,No,1
+186,36829984,Female,1965-12-01,CA,713-967-1935,Platinum,80894091,Other driver error,2018-02-22,Auto,Yes,Material and injury,24750.0,1,No,1
+187,68772500,Male,1989-11-10,TX,562-259-5432,Silver,21550521,Driver error,2018-08-30,Auto,Unknown,Material only,2320.0,1,No,0
+188,154557,Female,1978-05-23,DE,962-879-1238,Platinum,69348631,Driver error,2018-04-10,Auto,No,Injury only,12467.68,1,Yes,1
+189,97640137,Male,1975-08-14,SD,812-824-4285,Platinum,86624774,Driver error,2018-02-02,Auto,Unknown,Injury only,29600.0,1,No,0
+190,49270602,Male,1960-04-10,IL,837-734-6732,Platinum,2040094,Other causes,2018-06-17,Auto,No,Material only,1790.0,1,No,1
+191,25021031,Female,1972-12-07,IL,537-548-5913,Platinum,93354997,Other causes,2018-01-06,Auto,Yes,Injury only,31270.0,1,No,1
+192,2590748,Female,1991-11-30,MO,185-517-6934,Platinum,61761215,Other driver error,2018-10-03,Auto,Unknown,Material and injury,30530.0,2,No,0
+193,98905793,Female,1993-11-11,ID,823-482-5839,Platinum,17871003,Other driver error,2018-09-19,Auto,Unknown,Material only,3139.5,3,Yes,0
+194,39495715,Male,1968-09-16,LA,572-615-8539,Gold,90504501,Driver error,2017-08-31,Auto,No,Material only,2470.0,1,No,1
+195,64840478,Female,1974-02-14,NM,918-174-7461,Silver,23636125,Other driver error,2017-01-01,Auto,Unknown,Material and injury,17290.0,1,No,0
+196,30541131,Female,1988-03-17,CO,857-137-2347,Silver,73972734,Other driver error,2017-08-11,Home,Unknown,Material only,1570.0,1,No,0
+197,51503228,Male,1960-07-12,IA,612-258-9783,Silver,2322078,Driver error,2017-12-17,Auto,Unknown,Injury only,14330.0,3,No,0
+198,57959733,Female,1967-12-31,AR,689-628-5247,Platinum,94870378,Other driver error,2017-07-22,Auto,No,Material only,2530.0,3,No,1
+199,82415154,Female,1980-03-08,DE,578-942-1542,Platinum,46572741,Other driver error,2017-06-11,Auto,No,Material and injury,15240.0,1,No,1
+200,67861420,Female,1992-04-28,UT,645-657-5692,Platinum,50960913,Other causes,2018-02-15,Auto,No,Material only,1880.0,1,No,1
+201,16811546,Male,1976-07-09,KS,486-341-4781,Gold,91841652,Crime,2018-08-10,Auto,Unknown,Injury only,37200.0,1,No,0
+202,74840885,Female,1966-05-09,IA,149-458-3751,Platinum,73800450,Crime,2018-03-14,Home,Unknown,Material only,2060.0,5,No,0
+203,95719884,Female,1989-11-26,CT,759-157-6329,Platinum,14457951,Crime,2017-05-22,Auto,Unknown,Material only,1020.0,1,No,0
+204,22856223,Female,1963-08-07,AR,728-953-8257,Platinum,82692173,Other causes,2017-04-12,Auto,No,Material and injury,40660.0,1,No,1
+205,26965990,Female,1998-12-14,NH,823-634-8723,Platinum,2262550,Other causes,2017-02-23,Auto,Unknown,Material only,2310.0,1,No,0
+206,48447568,Male,1962-06-26,CT,294-936-9134,Gold,91210035,Driver error,2017-10-24,Auto,No,Material and injury,15920.0,1,No,1
+207,16102401,Male,1996-10-07,CT,148-543-1362,Silver,19333178,Driver error,2017-08-18,Home,Yes,Material only,2710.0,1,No,1
+208,26448215,Female,1983-03-10,CT,765-438-8462,Silver,36685947,Natural causes,2017-02-03,Auto,No,Material only,2290.0,1,No,1
+209,40922910,Male,1963-09-12,IN,246-527-5983,Gold,84933468,Other driver error,2017-02-03,Auto,No,Material only,1180.0,4,No,1
+210,43293983,Female,1989-08-12,NM,356-724-4721,Gold,61672806,Other causes,2017-08-11,Auto,No,Material only,3059.0,1,Yes,1
+211,51195864,Female,1971-11-24,ND,831-136-3859,Gold,1189987,Other driver error,2017-09-20,Auto,Unknown,Material only,1630.0,2,No,0
+212,36395486,Male,1971-03-06,ND,365-482-4683,Gold,43722644,Other causes,2017-01-07,Home,No,Material only,3335.0,3,Yes,1
+213,32850276,Male,1963-10-29,ME,893-673-8192,Platinum,24499353,Natural causes,2018-10-09,Home,No,Material only,1580.0,1,No,1
+214,94041088,Male,1990-07-16,NM,815-641-3516,Silver,70086627,Natural causes,2017-12-10,Home,Unknown,Material only,2645.0,1,Yes,0
+215,90718924,Male,1970-09-30,ME,185-286-2134,Silver,97233183,Other causes,2017-01-21,Home,No,Material and injury,27560.0,1,No,1
+216,51278451,Female,1982-04-23,NJ,597-396-2931,Gold,70332189,Other driver error,2018-03-01,Auto,Unknown,Material and injury,20660.0,1,No,0
+217,16868327,Male,1968-02-14,VT,426-293-4958,Silver,3883874,Driver error,2017-01-14,Auto,No,Material only,1400.0,1,No,1
+218,32269248,Female,1971-06-27,NE,574-857-9387,Gold,94714143,Other driver error,2018-07-07,Auto,Yes,Injury only,30350.0,1,No,1
+219,35410919,Female,1995-05-07,AZ,862-765-3425,Silver,22295924,Crime,2017-06-04,Auto,No,Material only,1740.0,3,No,1
+220,20716946,Female,1981-06-10,KY,526-579-6814,Platinum,80976947,Other driver error,2018-03-21,Auto,No,Material and injury,21830.0,1,No,1
+221,90102508,Male,1985-07-25,AZ,794-134-3864,Gold,93075008,Natural causes,2018-03-28,Auto,No,Material only,1280.0,1,No,1
+222,40744509,Male,1999-09-18,MD,746-571-4539,Gold,46968995,Other causes,2017-06-25,Auto,No,Material and injury,34770.0,4,No,1
+223,51460517,Male,1969-12-25,ND,925-214-7481,Gold,23840141,Other causes,2017-06-18,Auto,Unknown,Material only,1391.5,1,Yes,0
+224,9677945,Female,1987-05-28,SC,849-461-6419,Platinum,5694962,Other causes,2018-09-26,Auto,No,Material only,1520.0,1,No,1
+225,34297743,Female,1976-03-17,WI,726-673-6513,Platinum,3485777,Natural causes,2017-07-28,Auto,No,Material only,1700.0,1,No,1
+226,17682060,Female,1974-11-21,NV,186-195-3465,Gold,49735712,Crime,2018-10-30,Home,Unknown,Material and injury,17020.0,1,No,0
+227,29750601,Female,1995-10-28,RI,652-976-9723,Platinum,718760,Other driver error,2017-10-24,Auto,Unknown,Injury only,31980.0,1,No,0
+228,97698815,Male,1977-05-06,OH,352-765-2183,Gold,81849361,Natural causes,2017-02-17,Auto,Unknown,Material only,1860.0,1,No,0
+229,28920170,Male,1962-07-18,ID,498-547-6829,Silver,19639145,Crime,2017-11-13,Auto,No,Material and injury,41365.5,1,Yes,1
+230,55572419,Female,1965-05-31,CO,728-934-9134,Gold,6535473,Other causes,2017-05-09,Auto,Yes,Injury only,27520.0,1,No,1
+231,77219712,Female,1999-08-05,NH,649-592-8793,Platinum,61374372,Other causes,2017-01-01,Auto,No,Material and injury,20200.0,1,No,1
+232,39286853,Female,1993-06-23,ND,829-753-4352,Platinum,24759210,Other driver error,2018-10-03,Auto,Unknown,Injury only,35830.0,1,No,0
+233,47226965,Male,1995-06-27,MN,935-251-3941,Platinum,6795457,Driver error,2017-09-07,Auto,No,Material only,2600.0,4,No,1
+234,68757979,Female,1964-06-07,KY,835-238-5426,Platinum,27087847,Natural causes,2017-10-31,Auto,No,Material only,2410.0,1,No,1
+235,69956308,Female,1981-02-09,AL,934-541-3417,Gold,93818470,Natural causes,2018-01-13,Auto,Yes,Material only,3312.0,4,Yes,1
+236,47603757,Female,1996-08-09,NE,214-247-6582,Platinum,65784642,Driver error,2018-04-24,Auto,No,Material only,2980.0,1,No,1
+237,83534717,Male,1965-05-17,MI,732-632-3689,Silver,98203403,Natural causes,2017-04-12,Auto,No,Material only,1680.0,1,No,1
+238,40480522,Female,1984-05-30,NV,739-259-6835,Gold,52377605,Driver error,2018-10-30,Auto,Unknown,Material and injury,26310.0,1,No,0
+239,86597605,Female,1962-04-21,ME,794-584-3826,Gold,79350008,Driver error,2017-09-27,Auto,No,Material and injury,37400.0,1,No,1
+240,7829022,Male,1980-08-12,ND,964-432-2841,Platinum,35620656,Driver error,2017-11-13,Auto,No,Material only,2320.0,1,No,1
+241,77985379,Female,1984-05-20,MD,619-412-8295,Platinum,95022138,Other driver error,2017-07-01,Auto,Yes,Material and injury,27610.0,2,No,1
+242,2826434,Female,1994-11-25,MN,863-274-1853,Platinum,24834777,Driver error,2017-04-25,Home,No,Injury only,22100.0,1,No,1
+243,16548727,Female,1984-11-11,ND,475-651-3249,Platinum,94426134,Other causes,2017-11-06,Auto,Yes,Material only,1080.0,3,No,1
+244,94267140,Male,1967-10-07,MO,765-672-8396,Gold,67394855,Other driver error,2017-04-12,Auto,No,Material only,1590.0,1,No,1
+245,5637733,Male,1964-05-27,ID,567-617-1874,Platinum,15859475,Crime,2017-10-10,Auto,Unknown,Material only,2170.0,1,No,0
+246,684748,Male,1977-08-03,AK,613-385-2863,Gold,7238381,Other driver error,2018-07-14,Auto,No,Material only,2920.0,2,No,1
+247,65047878,Female,1979-08-23,SD,593-329-6298,Silver,27131115,Natural causes,2017-02-03,Auto,Unknown,Material only,1679.0,4,Yes,0
+248,84614509,Male,1981-01-14,WI,576-536-8742,Silver,63175077,Driver error,2018-06-23,Home,Unknown,Injury only,18308.0,1,Yes,0
+249,93766634,Female,1970-09-20,OH,871-813-4512,Gold,4869668,Other causes,2018-06-23,Auto,No,Injury only,16940.0,1,No,1
+250,68712439,Male,1990-08-17,WI,397-361-3286,Platinum,29078722,Other driver error,2018-06-17,Home,No,Material only,1600.0,1,No,1
+251,88785895,Male,1977-04-24,CO,549-729-2915,Gold,62679663,Driver error,2018-02-22,Auto,Unknown,Material and injury,39307.0,1,Yes,0
+252,33924586,Female,1976-03-28,MA,187-187-9648,Silver,29981557,Natural causes,2018-04-04,Auto,Unknown,Material and injury,28750.0,1,No,0
+253,1852176,Male,1967-06-23,PA,563-749-5436,Platinum,59259291,Driver error,2018-04-17,Auto,Unknown,Material only,1510.0,1,No,0
+254,58107776,Female,1974-06-26,HI,794-819-7165,Silver,35839635,Other driver error,2017-04-25,Auto,Yes,Material only,1030.0,1,No,1
+255,30743608,Male,1990-02-19,DE,541-523-1263,Gold,46356995,Other causes,2017-03-22,Auto,No,Material only,2714.0,1,Yes,1
+256,50530333,Male,1999-05-22,WA,152-152-9356,Silver,44524224,Crime,2017-06-04,Auto,Unknown,Material only,2415.0,3,Yes,0
+257,29282358,Female,1985-10-05,NE,291-953-5768,Gold,56720636,Other driver error,2018-01-13,Auto,No,Material and injury,39280.0,2,No,1
+258,55375167,Male,1969-03-30,NE,245-617-1348,Silver,5854580,Crime,2017-04-05,Home,Unknown,Material only,1403.0,3,Yes,0
+259,37692329,Male,1992-05-28,LA,195-175-4275,Platinum,24230132,Driver error,2018-08-16,Auto,No,Material and injury,34300.0,1,No,1
+260,2753882,Female,1994-10-12,CA,739-738-7493,Platinum,13479108,Natural causes,2017-07-01,Auto,No,Material only,2650.0,1,No,1
+261,88219691,Female,1994-10-27,NJ,298-359-2684,Silver,63532473,Other causes,2017-09-14,Auto,No,Injury only,23960.0,1,No,1
+262,67722830,Male,1973-11-30,TN,674-654-7168,Platinum,25246596,Driver error,2017-08-04,Auto,No,Material only,1529.5,3,Yes,1
+263,11321295,Male,1965-11-13,DE,429-596-2169,Platinum,31574986,Driver error,2017-02-03,Auto,No,Material only,2460.0,2,No,1
+264,28502965,Female,1966-09-11,DE,598-625-9431,Silver,6267263,Natural causes,2017-10-10,Auto,No,Material only,1620.0,1,No,1
+265,51782731,Male,1989-12-18,PA,728-916-1287,Silver,99444302,Other driver error,2017-02-03,Home,Unknown,Material only,2790.0,1,No,0
+266,76395629,Male,1972-01-29,ID,812-836-7854,Silver,75651365,Other causes,2017-01-27,Auto,No,Material only,1210.0,1,No,1
+267,20960664,Female,1987-10-28,VT,276-719-1489,Platinum,18499217,Natural causes,2018-08-10,Auto,Yes,Injury only,19676.5,1,Yes,1
+268,79683883,Male,1985-09-30,WY,194-892-7628,Gold,56848907,Other driver error,2017-09-07,Auto,No,Material and injury,27266.5,1,Yes,1
+269,33388786,Female,1982-04-13,MO,182-164-7386,Gold,30755644,Other causes,2017-04-18,Auto,Yes,Injury only,33590.0,2,No,1
+270,52361935,Male,1995-03-27,MI,925-931-3164,Silver,2741337,Natural causes,2017-10-17,Auto,Yes,Material only,2840.0,1,No,1
+271,97038550,Female,1973-10-08,FL,963-613-5369,Platinum,86070727,Other driver error,2018-02-22,Home,Unknown,Material and injury,16790.0,1,No,0
+272,25911554,Female,1998-06-21,IN,321-235-9236,Gold,2913034,Natural causes,2018-06-03,Auto,No,Material only,1322.5,3,Yes,1
+273,43834942,Female,1980-09-08,ND,281-286-8362,Gold,74906328,Natural causes,2017-07-01,Auto,Yes,Material and injury,19900.0,1,No,1
+274,17242900,Male,1982-03-27,NM,472-435-3847,Platinum,95114913,Crime,2017-11-13,Auto,No,Material only,2440.0,1,No,1
+275,54094880,Male,1984-06-01,DE,568-481-7418,Silver,34621474,Other driver error,2017-02-17,Auto,No,Material only,1529.5,1,Yes,1
+276,59809467,Female,1987-12-03,IN,231-893-6274,Silver,52223434,Other driver error,2018-05-28,Auto,Unknown,Material only,12467.68,1,Yes,0
+277,62204138,Female,1989-12-15,DE,471-934-4961,Platinum,93028492,Driver error,2017-10-31,Auto,Unknown,Material only,2691.0,1,Yes,0
+278,93993324,Male,1964-02-23,WI,853-261-1783,Gold,76384782,Driver error,2017-06-04,Auto,No,Material only,3128.0,1,Yes,1
+279,84995304,Female,1985-05-05,GA,347-765-3861,Silver,79219792,Other driver error,2018-08-30,Home,Unknown,Material only,3036.0,1,Yes,0
+280,70955654,Female,1992-08-23,IL,867-154-5847,Silver,25014071,Crime,2017-10-04,Home,No,Material only,1173.0,1,Yes,1
+281,43274276,Female,1977-04-22,OR,829-634-2537,Silver,86017636,Other driver error,2018-02-15,Auto,No,Material only,1200.0,4,No,1
+282,23236713,Male,1994-01-24,OK,564-237-8963,Silver,45535504,Driver error,2018-03-14,Auto,Yes,Injury only,29960.0,1,No,1
+283,76501371,Male,1976-02-14,NY,341-346-8795,Silver,80169462,Driver error,2018-02-15,Auto,Unknown,Material only,1970.0,1,No,0
+284,56554262,Male,1982-10-26,ND,142-258-9876,Silver,42474249,Other causes,2018-10-09,Auto,No,Material only,2090.0,1,No,1
+285,48123202,Female,1998-12-31,AL,932-672-6327,Gold,4567648,Other driver error,2017-08-31,Auto,No,Material only,2640.0,1,No,1
+286,93915431,Male,1967-09-08,ME,134-785-1687,Gold,99775483,Other causes,2018-10-30,Auto,No,Material and injury,42124.5,1,Yes,1
+287,38560100,Female,1973-11-01,IL,586-724-1493,Platinum,8322480,Other driver error,2017-03-16,Auto,No,Injury only,21330.0,3,No,1
+288,31544049,Male,1971-06-04,KS,672-351-1964,Silver,83960449,Driver error,2017-11-27,Auto,Unknown,Material only,1817.0,1,Yes,0
+289,68615086,Male,1980-11-12,VT,326-937-6952,Platinum,66563034,Driver error,2018-07-07,Auto,No,Material and injury,17670.0,1,No,1
+290,55535045,Male,1994-08-11,AR,164-539-3948,Gold,95437929,Driver error,2017-04-05,Auto,No,Material only,1110.0,1,No,1
+291,17988592,Male,1999-12-16,NM,472-186-4937,Platinum,94981713,Other causes,2017-07-28,Auto,No,Material and injury,32407.0,1,Yes,1
+292,4883962,Male,1972-01-20,FL,478-721-9743,Platinum,59593960,Driver error,2017-07-15,Auto,Yes,Material only,1460.0,1,No,1
+293,33812279,Male,1991-07-17,KS,621-297-6317,Platinum,4367748,Other causes,2017-05-22,Auto,Yes,Injury only,41779.5,1,Yes,1
+294,81854173,Male,1993-03-13,CO,743-429-8173,Gold,96241162,Other driver error,2017-05-09,Auto,Unknown,Material only,1850.0,1,No,0
+295,24579061,Female,1967-11-24,IN,763-365-2837,Platinum,11682102,Natural causes,2017-01-07,Auto,No,Material only,1770.0,1,No,1
+296,29478976,Male,1983-10-06,MO,964-768-7924,Gold,26104084,Crime,2018-05-21,Auto,No,Material only,1160.0,1,No,1
+297,10462042,Female,1964-06-06,WA,351-316-3172,Platinum,38641457,Other causes,2018-08-03,Home,No,Material only,2410.0,1,No,1
+298,52265112,Female,1987-08-21,MA,251-361-5218,Gold,51316495,Other driver error,2017-06-11,Auto,No,Material only,1520.0,2,No,1
+299,53900680,Male,1999-03-06,MA,591-168-3457,Silver,68533229,Other causes,2017-03-29,Home,Yes,Material and injury,33900.0,2,No,1
+300,69784779,Female,1990-08-20,IA,521-358-6847,Platinum,70210720,Other driver error,2018-05-21,Auto,Yes,Material and injury,28740.0,1,No,1
+301,26810768,Female,1987-07-02,WA,387-791-4125,Platinum,38508652,Other causes,2017-07-01,Auto,No,Material and injury,23980.0,3,No,1
+302,82637319,Male,1999-03-17,KY,647-375-9124,Platinum,10080081,Other causes,2017-10-31,Auto,Unknown,Material only,1184.5,1,Yes,0
+303,69546065,Male,1994-06-12,PA,641-659-5972,Platinum,6515806,Crime,2017-06-18,Auto,Unknown,Material only,2104.5,1,Yes,0
+304,67427492,Female,1992-11-01,MN,693-794-2741,Silver,2056210,Driver error,2017-05-29,Auto,No,Material only,1040.0,1,No,1
+305,18213216,Male,1969-10-06,KY,416-461-9145,Silver,2581621,Other causes,2018-09-12,Auto,Unknown,Material and injury,21942.0,2,Yes,0
+306,98204394,Male,1968-12-06,VA,685-823-5284,Silver,25688619,Driver error,2017-02-10,Home,Unknown,Material only,1550.0,6,No,0
+307,63413368,Male,1966-09-01,VA,958-159-2173,Silver,43680480,Driver error,2018-06-30,Auto,No,Material only,1740.0,2,No,1
+308,91136854,Female,1998-04-07,WI,943-194-1759,Silver,14698666,Other driver error,2018-01-06,Auto,No,Material only,2240.0,4,No,1
+309,11187680,Female,1974-10-11,CO,841-732-5392,Silver,18917146,Other driver error,2017-03-29,Auto,Unknown,Material only,2440.0,1,No,0
+310,88205075,Male,1973-06-03,VA,631-658-1329,Platinum,82224237,Other causes,2017-03-16,Auto,Unknown,Injury only,16460.0,1,No,0
+311,40728123,Male,1977-07-03,UT,298-863-2514,Platinum,52339239,Other causes,2017-02-10,Auto,No,Material only,2590.0,1,No,1
+312,65176092,Male,1975-11-23,NC,651-379-2486,Silver,9476314,Other causes,2017-01-01,Auto,No,Material and injury,37290.0,3,No,1
+313,84229777,Female,1976-03-18,TN,728-184-5376,Platinum,56133273,Natural causes,2017-08-11,Auto,No,Material only,3128.0,1,Yes,1
+314,76093960,Female,1984-06-23,OK,867-923-3798,Silver,79752814,Other causes,2017-05-29,Auto,Unknown,Material only,2700.0,2,No,0
+315,36994344,Male,1975-12-16,ME,673-618-4586,Silver,71517851,Natural causes,2018-07-27,Auto,No,Material only,2280.0,1,No,1
+316,68043300,Male,1993-06-03,MN,687-879-7692,Platinum,29519925,Other driver error,2018-03-21,Auto,Unknown,Material only,2656.5,1,Yes,0
+317,28901669,Female,1981-05-28,MT,798-435-4862,Silver,2980099,Crime,2018-02-02,Auto,Yes,Injury only,35178.5,1,Yes,1
+318,86916099,Female,1969-03-15,ME,386-156-9384,Gold,59959117,Other driver error,2017-04-05,Auto,No,Injury only,19390.0,1,No,1
+319,29826894,Female,1991-01-06,AZ,124-198-8153,Silver,87350000,Other driver error,2017-11-06,Auto,No,Material only,2730.0,5,No,1
+320,79637467,Male,1971-03-27,IA,736-694-8274,Gold,87230026,Other causes,2017-02-17,Auto,Yes,Injury only,16700.0,1,No,1
+321,36632227,Female,1960-06-09,GA,369-589-9865,Silver,9588683,Other driver error,2017-03-09,Auto,Unknown,Material only,2886.5,1,Yes,0
+322,77510822,Female,1986-03-18,AK,436-934-7156,Silver,87329176,Other driver error,2018-10-30,Auto,Unknown,Material only,12467.68,2,No,0
+323,2651069,Male,1999-03-09,AL,681-981-1478,Gold,3329988,Other driver error,2017-09-07,Auto,No,Material only,1932.0,1,Yes,1
+324,8150738,Female,1987-12-06,NH,842-127-7916,Platinum,72207767,Natural causes,2018-05-01,Auto,Unknown,Material only,2210.0,1,No,0
+325,67268108,Male,1973-10-18,FL,159-192-1758,Platinum,96723243,Other driver error,2018-03-08,Auto,Yes,Material and injury,41280.0,2,No,1
+326,53907868,Male,1978-02-07,WA,768-578-9871,Platinum,14024069,Other causes,2018-04-17,Auto,Unknown,Material and injury,26620.0,1,No,0
+327,86246733,Male,1982-07-17,MN,248-471-2985,Gold,74762827,Driver error,2017-12-10,Auto,Unknown,Material and injury,26520.0,2,No,0
+328,45568489,Female,1967-11-03,OH,826-463-4186,Silver,78826857,Other driver error,2017-05-09,Auto,Yes,Material and injury,14480.0,3,No,1
+329,28032985,Female,1964-12-10,NM,926-817-6247,Gold,96335300,Other causes,2017-03-02,Auto,No,Material only,1800.0,2,No,1
+330,33210182,Male,1989-11-09,CA,387-759-2586,Platinum,45953414,Crime,2018-01-13,Auto,Yes,Material only,2020.0,1,No,1
+331,24731784,Female,1980-10-17,DE,169-631-1283,Silver,81667658,Natural causes,2018-07-07,Auto,No,Material only,1260.0,1,No,1
+332,36126424,Female,1981-02-11,ME,398-768-5283,Platinum,5222877,Driver error,2018-10-23,Auto,Unknown,Material and injury,20550.0,1,No,0
+333,95452498,Female,1988-02-21,MI,391-537-8235,Silver,76523655,Other causes,2017-04-05,Auto,No,Material only,2219.5,1,Yes,1
+334,22756942,Male,1982-10-09,FL,462-823-3126,Silver,70512964,Driver error,2017-01-01,Auto,Yes,Injury only,20310.0,1,No,1
+335,62489316,Female,1993-08-15,GA,985-185-1659,Gold,13217364,Other causes,2017-08-31,Auto,No,Material only,2330.0,1,No,1
+336,4825461,Female,1965-04-27,NE,791-473-9763,Platinum,6174643,Other driver error,2017-07-15,Auto,Yes,Material and injury,32960.0,1,No,1
+337,63915259,Male,1986-05-22,GA,829-157-6239,Gold,89056979,Other causes,2018-09-26,Home,Yes,Material and injury,18530.0,1,No,1
+338,6723724,Female,1989-04-20,AL,592-368-3149,Platinum,94690483,Natural causes,2017-09-27,Auto,Unknown,Material only,1679.0,1,Yes,0
+339,51719336,Female,1966-07-06,AK,149-149-3164,Platinum,84029944,Other causes,2018-01-20,Home,Unknown,Material only,2070.0,1,Yes,0
+340,89808931,Female,1989-07-22,WA,524-613-4786,Silver,52259939,Driver error,2018-07-20,Home,No,Material only,2750.0,1,No,1
+341,55105629,Male,1981-02-06,TN,516-198-5127,Silver,40350951,Natural causes,2017-10-17,Auto,No,Material only,1860.0,1,No,1
+342,79076502,Female,1977-12-30,NJ,259-527-3218,Silver,71274497,Other driver error,2017-10-31,Auto,Unknown,Material only,1380.0,1,No,0
+343,81131066,Male,1968-11-01,AL,579-265-6183,Gold,49550521,Other causes,2017-12-30,Auto,No,Material only,1920.0,2,No,1
+344,75995055,Female,1995-12-14,OK,845-854-5473,Gold,45433267,Other causes,2018-06-17,Auto,Yes,Injury only,36350.0,1,No,1
+345,24425429,Female,1987-06-09,NC,894-913-8453,Gold,43558718,Natural causes,2018-10-16,Auto,No,Material only,1450.0,1,No,1
+346,51382348,Male,1970-12-28,MT,594-728-3497,Silver,3465669,Natural causes,2017-02-23,Home,No,Injury only,39928.0,1,Yes,1
+347,18842829,Male,1969-09-10,ME,561-158-4657,Platinum,79446773,Driver error,2017-03-02,Auto,No,Material only,2450.0,1,No,1
+348,98180346,Male,1992-02-16,NV,685-872-4789,Platinum,172149,Other causes,2017-06-04,Auto,No,Material only,2810.0,1,No,1
+349,53013094,Male,1976-06-07,PA,192-576-9158,Silver,52442756,Natural causes,2018-06-30,Auto,Unknown,Material only,12467.68,1,No,0
+350,25263633,Male,1966-12-04,ND,536-497-6752,Silver,79612644,Other causes,2018-06-10,Auto,No,Material only,2470.0,2,No,1
+351,16444738,Female,1990-02-18,TN,298-376-5293,Platinum,61900903,Other causes,2017-08-31,Auto,No,Material only,1207.5,1,Yes,1
+352,64231993,Male,1982-07-15,CO,617-896-5736,Gold,15605014,Natural causes,2018-03-01,Home,No,Material and injury,29690.0,1,No,1
+353,89530919,Male,1973-09-20,IL,938-684-9572,Gold,81628285,Driver error,2018-04-24,Auto,No,Material only,2450.0,1,No,1
+354,38011078,Female,1976-05-20,NE,271-123-1475,Gold,98795403,Crime,2018-10-30,Auto,Unknown,Material only,1940.0,1,No,0
+355,76314493,Female,1961-10-02,DE,389-764-4853,Silver,49252712,Other driver error,2017-09-14,Home,No,Material only,12467.68,1,No,1
+356,51975640,Female,1982-05-10,NC,139-648-8714,Silver,60882662,Other driver error,2018-10-16,Auto,No,Material and injury,32150.0,2,No,1
+357,47593642,Male,1970-06-20,HI,596-684-9786,Gold,35866339,Crime,2018-04-04,Auto,Unknown,Material only,1750.0,1,No,0
+358,42439009,Female,1976-09-17,NV,591-218-5973,Gold,80529502,Driver error,2018-03-01,Auto,Unknown,Injury only,28950.0,1,No,0
+359,51613894,Male,1988-01-02,MO,675-213-7462,Silver,41063309,Other causes,2018-03-28,Home,Unknown,Material and injury,12467.68,1,No,0
+360,49078798,Male,1965-05-07,VT,168-931-2841,Gold,69278867,Natural causes,2018-02-02,Auto,No,Material only,1350.0,1,No,1
+361,17822772,Male,1989-05-07,OK,428-196-6913,Platinum,49821811,Driver error,2018-03-14,Auto,Unknown,Injury only,33200.0,1,No,0
+362,94643289,Male,1998-04-24,AK,317-612-1425,Silver,34596802,Driver error,2018-03-14,Auto,No,Material and injury,45287.0,1,Yes,1
+363,47535244,Female,1961-09-16,TN,413-134-6842,Gold,3366766,Natural causes,2018-06-10,Auto,No,Material only,2530.0,1,Yes,1
+364,70770204,Female,1984-01-17,CT,935-274-6725,Silver,18972174,Driver error,2018-04-17,Auto,Unknown,Injury only,28050.0,1,No,0
+365,92171044,Male,1964-07-24,WI,156-514-3516,Gold,32084957,Driver error,2017-07-15,Auto,No,Material only,2277.0,1,Yes,1
+366,98218159,Female,1976-09-02,PA,563-417-5261,Platinum,44626119,Other driver error,2017-12-10,Auto,No,Material only,2840.0,1,No,1
+367,24112592,Male,1980-06-11,NV,916-185-5697,Platinum,18497939,Other driver error,2018-03-28,Auto,No,Material only,2130.0,1,No,1
+368,97053819,Female,1997-05-06,NC,243-295-1862,Gold,2031695,Other causes,2018-06-03,Auto,No,Material only,2070.0,1,No,1
+369,88484857,Male,1960-05-21,UT,189-845-2459,Silver,31272774,Other causes,2018-09-19,Auto,No,Material only,1900.0,1,No,1
+370,89965541,Male,1967-06-19,MT,359-678-4658,Silver,62487859,Driver error,2017-12-10,Auto,No,Material only,2810.0,1,No,1
+371,96431710,Female,1982-07-20,NM,349-214-6872,Gold,1374365,Crime,2017-08-24,Auto,No,Material and injury,24713.5,1,Yes,1
+372,13059025,Female,1999-08-28,RI,624-716-1427,Platinum,33911305,Natural causes,2017-07-28,Auto,No,Material only,2220.0,1,No,1
+373,49481916,Female,1996-03-28,SC,734-137-4865,Silver,3311108,Other causes,2018-09-19,Auto,No,Material only,12467.68,2,Yes,1
+374,10956208,Male,1984-12-21,AZ,194-786-8173,Gold,28520503,Natural causes,2018-02-02,Auto,No,Material only,1210.0,1,No,1
+375,43059280,Male,1994-12-16,RI,651-127-8152,Platinum,76387481,Natural causes,2017-06-25,Home,Yes,Material and injury,38970.0,1,No,1
+376,92971195,Male,1975-02-02,DE,892-173-4657,Gold,92399694,Other driver error,2018-09-26,Home,No,Material only,1140.0,1,No,1
+377,97578924,Male,1978-11-22,CO,654-176-5324,Platinum,49171996,Other causes,2018-08-23,Home,No,Material only,2360.0,1,No,1
+378,81790039,Female,1995-06-22,HI,612-374-9851,Gold,33733739,Driver error,2017-03-22,Auto,No,Material and injury,19640.0,1,No,1
+379,36812323,Male,1960-01-24,ND,237-257-3415,Silver,27931854,Other driver error,2017-01-27,Auto,Yes,Material and injury,14170.0,1,No,1
+380,63544225,Female,1999-03-30,CO,934-658-2318,Platinum,86062955,Crime,2018-08-30,Auto,No,Material only,1100.0,1,No,1
+381,4669941,Male,1982-08-03,AK,761-462-3458,Platinum,70068,Driver error,2017-11-06,Auto,Unknown,Injury only,29900.0,1,Yes,0
+382,64395359,Female,1994-09-08,CA,968-896-9268,Silver,77337624,Other causes,2017-05-22,Auto,Yes,Injury only,20970.0,1,No,1
+383,25634799,Female,1974-11-04,KS,724-781-3692,Platinum,36457152,Driver error,2017-01-01,Auto,No,Material only,2900.0,2,No,1
+384,31654316,Female,1981-07-12,IN,683-351-1463,Gold,67359535,Other driver error,2017-04-05,Home,Unknown,Material and injury,35800.0,3,No,0
+385,49499709,Male,1977-10-05,KS,827-152-3125,Silver,38907463,Driver error,2017-05-15,Auto,No,Material only,2130.0,2,No,1
+386,45415342,Female,1996-03-12,DE,915-398-4596,Platinum,43384286,Other causes,2018-06-03,Auto,No,Material and injury,24080.0,1,No,1
+387,72734097,Male,1960-03-16,MA,392-741-5178,Gold,18696192,Driver error,2017-07-01,Auto,Yes,Material and injury,34590.0,1,No,1
+388,94707309,Female,1988-06-04,MA,835-123-6381,Gold,27981652,Crime,2017-02-17,Auto,No,Material only,1870.0,3,No,1
+389,84750181,Female,1993-05-16,AK,419-431-6251,Platinum,34691767,Other driver error,2017-03-09,Home,No,Material only,2370.0,4,No,1
+390,58380749,Female,1973-08-12,SC,672-491-4529,Silver,47497964,Other driver error,2017-12-10,Auto,Yes,Injury only,26130.0,1,No,1
+391,42345842,Female,1975-01-21,NH,795-476-5347,Gold,6794881,Other causes,2017-12-24,Auto,Unknown,Material only,1150.0,1,Yes,0
+392,54103924,Male,1985-03-08,NJ,794-849-1953,Gold,26044648,Driver error,2018-04-24,Auto,Unknown,Material and injury,23370.0,3,No,0
+393,48099288,Female,1987-02-24,HI,918-942-6527,Gold,10605433,Other causes,2018-10-09,Auto,No,Material only,2090.0,1,No,1
+394,57896241,Male,1996-09-11,VT,678-356-9671,Silver,11113092,Driver error,2017-04-05,Auto,Unknown,Material and injury,30420.0,1,No,0
+395,70730377,Female,1978-01-28,CO,835-781-6495,Gold,83523623,Driver error,2018-03-14,Auto,No,Material only,2750.0,2,No,1
+396,6125426,Female,1998-04-23,NE,317-978-1285,Silver,61143364,Other driver error,2018-01-13,Auto,No,Material only,12467.68,1,No,1
+397,48227009,Male,1990-01-22,VA,593-164-6714,Gold,71246528,Natural causes,2018-01-20,Auto,No,Material only,1570.0,1,No,1
+398,86308184,Female,1990-05-25,WV,613-849-3215,Platinum,66730599,Other driver error,2017-08-04,Auto,Yes,Material only,1110.0,1,No,1
+399,69065193,Female,1980-09-26,MT,963-496-4127,Silver,94242984,Other driver error,2018-10-09,Auto,Unknown,Material and injury,36075.5,4,Yes,0
+400,79846638,Female,1969-09-17,MO,248-215-1346,Platinum,95444389,Crime,2017-03-09,Auto,No,Material only,1260.0,1,No,1
+401,38047917,Male,1985-08-18,VT,972-254-1352,Gold,47371265,Driver error,2017-12-17,Auto,Yes,Injury only,22440.0,1,No,1
+402,73611258,Male,1995-03-08,WV,246-752-9853,Gold,18736499,Other driver error,2017-08-11,Auto,No,Injury only,21620.0,1,No,1
+403,14696479,Female,1991-07-07,IA,678-719-8217,Silver,58956535,Other causes,2017-02-23,Auto,No,Material only,1540.0,1,No,1
+404,25166037,Male,1999-10-28,AL,537-268-6189,Gold,6683382,Other driver error,2017-04-12,Home,Unknown,Injury only,24610.0,1,No,0
+405,1123356,Female,1960-07-29,OR,736-725-9481,Silver,50906515,Crime,2018-08-23,Auto,No,Material only,2507.0,5,Yes,1
+406,97162684,Male,1994-05-19,WV,874-957-9764,Silver,71712774,Other causes,2017-08-18,Auto,Unknown,Material and injury,20769.0,1,Yes,0
+407,95055469,Female,1964-06-23,MS,632-725-7146,Platinum,24181936,Crime,2017-08-18,Auto,No,Material only,2990.0,1,No,1
+408,56985179,Male,1974-05-14,MN,894-163-7685,Platinum,7575702,Driver error,2017-10-17,Auto,No,Material only,2967.0,4,Yes,1
+409,69039320,Female,1975-09-16,NH,216-854-4563,Platinum,25993027,Driver error,2018-06-03,Auto,No,Material only,1780.0,1,No,1
+410,84514444,Female,1982-06-26,NV,712-156-7298,Platinum,22476290,Other causes,2017-07-08,Auto,No,Injury only,30840.0,5,No,1
+411,79953263,Male,1967-01-14,ID,685-954-6532,Platinum,75954321,Other causes,2018-03-28,Auto,Yes,Injury only,32680.0,1,No,1
+412,15557396,Male,1975-11-03,AR,915-247-7815,Gold,50921792,Other causes,2017-10-17,Auto,Yes,Material and injury,12467.68,3,No,1
+413,95002919,Male,1964-04-15,TN,128-196-6753,Platinum,21915563,Natural causes,2018-06-30,Home,No,Material and injury,31110.0,1,No,1
+414,7612094,Male,1983-08-26,UT,145-734-4176,Gold,75623323,Natural causes,2018-09-06,Auto,No,Material only,2771.5,1,Yes,1
+415,53260501,Female,1998-05-24,OK,624-125-7382,Silver,48509529,Natural causes,2017-03-02,Auto,No,Material only,1000.0,1,No,1
+416,92072156,Female,1971-07-28,DE,186-419-2974,Silver,87476916,Natural causes,2018-09-12,Auto,Yes,Material only,2970.0,1,No,1
+417,77570823,Female,1963-12-20,AL,846-573-6251,Platinum,25416969,Natural causes,2017-06-25,Auto,No,Material only,2230.0,1,No,1
+418,69010101,Female,1971-10-23,AR,825-591-5293,Platinum,24709692,Natural causes,2017-04-25,Auto,Unknown,Material only,3427.0,1,Yes,0
+419,1223055,Male,1995-06-02,CA,726-984-2871,Platinum,26773102,Natural causes,2017-10-31,Auto,Yes,Injury only,33490.0,3,No,1
+420,9884792,Male,1974-12-23,GA,764-745-3951,Silver,92714664,Driver error,2017-09-14,Auto,Unknown,Injury only,29630.0,1,No,0
+421,1144598,Female,1980-04-27,WY,571-397-1798,Platinum,3502909,Driver error,2017-03-22,Auto,Unknown,Injury only,25010.0,1,No,0
+422,59716520,Male,1986-08-05,CT,348-546-2769,Silver,26836009,Other causes,2017-11-27,Home,No,Material only,1020.0,1,No,1
+423,59056552,Female,1993-04-10,NC,864-129-4829,Gold,43253975,Driver error,2018-06-30,Auto,Yes,Injury only,12467.68,1,No,1
+424,25164999,Female,1993-10-25,MD,261-583-6387,Silver,9075822,Other driver error,2018-03-08,Auto,No,Material only,1909.0,1,Yes,1
+425,70761779,Female,1992-07-12,AL,932-146-8539,Silver,34549771,Other causes,2017-08-24,Auto,Unknown,Injury only,14460.0,6,No,0
+426,62934102,Female,1997-07-25,OR,518-352-6498,Silver,1756485,Other driver error,2018-05-21,Auto,Yes,Material and injury,39280.0,3,No,1
+427,11472207,Male,1961-04-19,TN,217-817-4251,Gold,75847149,Natural causes,2017-12-30,Auto,Unknown,Material and injury,44367.0,1,Yes,0
+428,97856694,Female,1991-11-14,TN,639-694-8245,Gold,1624094,Natural causes,2017-03-02,Auto,Unknown,Material only,2392.0,1,Yes,0
+429,86818440,Male,1983-12-28,WA,397-129-9435,Platinum,13132889,Other causes,2018-03-21,Auto,Unknown,Material and injury,31901.0,1,Yes,0
+430,66433138,Male,1978-06-27,TX,752-617-3867,Gold,22577147,Driver error,2017-02-23,Auto,No,Material and injury,21447.5,2,Yes,1
+431,87806611,Female,1978-10-11,MD,276-785-5134,Silver,24589924,Other causes,2018-03-14,Auto,Unknown,Material only,2950.0,1,No,0
+432,36252121,Female,1985-04-29,IN,127-359-1385,Gold,43099766,Driver error,2017-11-06,Auto,No,Injury only,22000.0,4,No,1
+433,19916012,Female,1964-01-22,KS,417-426-7961,Silver,85048276,Driver error,2017-01-14,Auto,No,Material only,1860.0,1,No,1
+434,79440308,Female,1997-03-11,AR,623-328-4615,Gold,43196799,Other causes,2017-05-22,Auto,Unknown,Material only,1620.0,1,No,0
+435,23116437,Female,1965-06-06,KY,625-325-1724,Silver,49818123,Other driver error,2017-01-21,Auto,No,Material only,12467.68,1,No,1
+436,58957713,Female,1962-06-22,MO,146-714-8675,Gold,7292900,Other causes,2017-07-22,Auto,No,Material only,2806.0,1,Yes,1
+437,4798021,Male,1960-01-16,FL,516-315-9143,Platinum,76290659,Other driver error,2018-05-01,Auto,No,Material only,1170.0,1,No,1
+438,83441797,Male,1997-12-01,IL,489-528-1573,Silver,84441293,Other driver error,2018-05-07,Auto,No,Material only,1630.0,2,No,1
+439,30154531,Male,1974-11-16,MA,482-654-2465,Platinum,12379231,Other causes,2017-10-04,Auto,No,Material only,3013.0,1,Yes,1
+440,38117638,Female,1992-06-04,MA,175-527-2541,Silver,47755129,Other driver error,2017-02-03,Auto,No,Material only,2060.0,1,No,1
+441,12112711,Female,1997-05-15,CA,795-234-3741,Platinum,30272514,Other driver error,2017-03-16,Auto,No,Material only,1276.5,1,Yes,1
+442,4652602,Female,1978-10-03,PA,128-371-7892,Gold,86258669,Other causes,2018-08-16,Auto,No,Material only,1320.0,1,No,1
+443,45187280,Female,1996-04-04,ND,325-842-5629,Gold,95320599,Other causes,2017-08-11,Auto,Yes,Injury only,33030.0,2,No,1
+444,77930023,Male,1982-09-27,GA,967-682-2918,Silver,59321838,Driver error,2017-07-01,Auto,No,Material only,12467.68,1,Yes,1
+445,58934617,Male,1990-04-01,CA,157-896-3619,Platinum,72555621,Other causes,2018-09-19,Auto,Yes,Injury only,27002.0,3,Yes,1
+446,41182960,Male,1970-05-31,CA,865-345-1634,Gold,83266482,Other causes,2018-07-27,Home,No,Material only,2060.0,1,No,1
+447,64488618,Male,1974-02-28,RI,967-894-1953,Silver,88595857,Driver error,2017-10-17,Auto,Yes,Material only,1630.0,1,No,1
+448,59793026,Male,1966-12-09,ME,231-719-3629,Gold,76745084,Other driver error,2017-09-07,Auto,Yes,Material and injury,40210.0,1,No,1
+449,86621072,Female,1967-09-17,AR,194-254-6572,Platinum,16468239,Other causes,2018-07-20,Auto,No,Material only,1173.0,1,Yes,1
+450,47250458,Female,1988-08-26,VT,157-132-6489,Platinum,51476665,Driver error,2017-12-30,Auto,No,Material only,1630.0,2,No,1
+451,35163792,Female,1994-05-22,CO,371-423-2618,Platinum,45642452,Other causes,2018-07-20,Auto,Yes,Material and injury,20080.0,2,No,1
+452,93871952,Male,1993-09-01,NC,582-426-1238,Platinum,72815943,Other driver error,2018-07-20,Auto,Yes,Material and injury,16880.0,3,No,1
+453,32464636,Female,1988-08-25,DE,862-247-1496,Gold,99281527,Driver error,2017-10-31,Auto,No,Material only,2323.0,1,Yes,1
+454,7583158,Female,1997-03-20,MT,481-519-7921,Gold,14638010,Other driver error,2017-03-16,Auto,Yes,Injury only,19820.0,1,No,1
+455,80670612,Female,1994-07-12,OH,549-586-9146,Gold,8962657,Other driver error,2018-04-10,Auto,Unknown,Injury only,20630.0,5,No,0
+456,21840201,Female,1991-01-21,KY,281-146-5627,Platinum,58488479,Driver error,2018-02-09,Auto,Yes,Material only,1510.0,1,No,1
+457,29130403,Male,1998-12-27,VT,457-421-1976,Silver,40759519,Driver error,2018-10-03,Auto,No,Material only,12467.68,1,Yes,1
+458,89806715,Female,1960-10-26,IA,157-529-5243,Silver,32110693,Crime,2018-08-30,Auto,Unknown,Material only,1710.0,1,No,0
+459,56016139,Male,1970-03-10,WI,346-389-9324,Platinum,93285588,Natural causes,2018-04-04,Auto,Unknown,Material only,2219.5,1,Yes,0
+460,20028241,Male,1990-09-19,MA,762-628-3261,Platinum,88210615,Driver error,2017-05-29,Auto,No,Material only,2940.0,1,No,1
+461,98341654,Male,1997-12-16,NH,375-624-6749,Platinum,84019240,Crime,2017-12-03,Auto,Unknown,Material only,2370.0,1,No,0
+462,44643917,Male,1968-12-19,WA,278-698-5972,Gold,21491548,Other driver error,2018-09-06,Auto,Yes,Material and injury,41320.0,1,No,1
+463,76185878,Male,1994-01-27,NC,463-812-2598,Gold,45568058,Driver error,2017-11-27,Auto,No,Material only,3231.5,1,Yes,1
+464,18665169,Female,1972-02-24,MD,429-825-9486,Gold,63762170,Other causes,2017-07-22,Auto,No,Injury only,37500.0,2,No,1
+465,17177153,Female,1985-10-03,HI,951-927-8617,Platinum,28889442,Other causes,2017-09-20,Auto,Unknown,Material only,2670.0,1,No,0
+466,84736739,Male,1994-02-27,NE,948-947-1695,Gold,61678713,Other driver error,2017-12-03,Auto,Yes,Material and injury,35800.0,1,No,1
+467,20110599,Female,1987-04-22,SD,163-459-7846,Silver,6234135,Other causes,2017-04-05,Auto,Unknown,Material only,2050.0,1,No,0
+468,15635627,Male,1997-03-16,OK,417-531-1953,Silver,37251197,Other causes,2018-08-10,Auto,Yes,Material only,12467.68,1,No,1
+469,3374112,Female,1960-11-11,MI,213-968-4851,Platinum,95057151,Natural causes,2018-03-01,Auto,Yes,Material and injury,25580.0,1,No,1
+470,78415715,Female,1978-07-28,OH,381-591-8265,Platinum,16011067,Natural causes,2017-10-10,Auto,Unknown,Material and injury,39370.0,1,No,0
+471,83080037,Male,1982-06-16,MA,965-968-1539,Silver,63446024,Driver error,2018-01-13,Auto,Unknown,Injury only,17250.0,1,No,0
+472,74017955,Male,1970-12-09,CO,582-859-4869,Gold,61885878,Driver error,2017-12-30,Auto,Unknown,Material only,2090.0,1,No,0
+473,33372791,Male,1965-03-27,NC,642-328-5489,Gold,59248480,Other causes,2017-06-18,Auto,No,Material only,2430.0,1,No,1
+474,48874104,Male,1980-12-05,GA,638-891-6419,Silver,11123788,Natural causes,2017-01-14,Auto,No,Material only,1700.0,1,No,1
+475,61822144,Male,1998-05-21,LA,184-816-8412,Silver,45511318,Driver error,2017-08-11,Auto,Unknown,Material only,12467.68,1,No,0
+476,95418320,Male,1988-08-01,IN,324-817-2436,Silver,23742797,Driver error,2018-08-30,Auto,No,Material only,2820.0,1,No,1
+477,26450621,Female,1987-02-14,FL,579-358-6391,Silver,59407693,Natural causes,2018-05-21,Auto,No,Material only,2960.0,1,No,1
+478,64622520,Female,1985-05-03,MT,624-571-5793,Gold,46459799,Natural causes,2017-11-27,Auto,No,Material only,2170.0,3,No,1
+479,32521691,Female,1986-01-07,ME,326-536-6253,Platinum,92089192,Driver error,2018-10-16,Auto,No,Material only,2320.0,4,No,1
+480,39444603,Female,1969-04-12,TN,431-425-7815,Platinum,28708429,Driver error,2017-12-03,Auto,No,Material only,2320.0,1,No,1
+481,48960366,Male,1964-08-09,NC,528-576-2918,Platinum,75363718,Driver error,2018-04-04,Auto,No,Material and injury,31450.0,1,No,1
+482,80701300,Female,1994-07-28,MS,593-423-4839,Silver,15267466,Other causes,2018-09-06,Auto,Yes,Material only,1150.0,2,Yes,1
+483,13275896,Male,1969-02-18,NV,659-459-7463,Platinum,38645590,Natural causes,2017-08-04,Auto,No,Material and injury,23450.0,1,No,1
+484,62816998,Male,1960-12-22,AL,941-923-5623,Silver,27334507,Other driver error,2017-05-02,Auto,No,Injury only,13710.0,2,No,1
+485,85700566,Male,1968-08-17,DE,289-394-4517,Gold,85427127,Other causes,2018-01-13,Auto,Unknown,Material and injury,16100.0,1,No,0
+486,81138909,Male,1989-08-09,NY,163-876-9473,Silver,9552601,Other causes,2017-03-22,Auto,Unknown,Material only,2580.0,1,No,0
+487,31115028,Female,1965-10-16,NE,321-243-9564,Silver,5182265,Other driver error,2018-03-28,Auto,Unknown,Material only,2600.0,1,No,0
+488,59843845,Female,1992-11-14,LA,657-637-9325,Platinum,27490821,Driver error,2018-10-03,Auto,No,Material and injury,25730.0,2,No,1
+489,75471235,Male,1991-07-23,CO,942-659-6475,Gold,39605405,Natural causes,2018-08-10,Auto,No,Material and injury,40540.0,1,No,1
+490,37365245,Male,1972-04-24,ND,278-968-4875,Silver,5425811,Natural causes,2017-01-14,Auto,No,Material only,1500.0,2,No,1
+491,30886292,Male,1974-05-13,PA,179-142-9184,Silver,91660260,Other driver error,2017-08-24,Auto,Unknown,Material only,2950.0,1,No,0
+492,20094340,Male,1966-06-05,WY,497-752-5396,Silver,30877914,Natural causes,2017-09-07,Auto,No,Material only,1060.0,1,No,1
+493,40948894,Female,1973-07-16,UT,239-839-2365,Gold,8981804,Other driver error,2017-08-24,Auto,Yes,Injury only,37170.0,1,No,1
+494,59903277,Male,1996-05-19,OK,634-697-8673,Gold,18428326,Other causes,2017-03-29,Auto,No,Material only,2185.0,2,Yes,1
+495,4412055,Female,1964-05-28,AK,576-276-4931,Gold,80956687,Other causes,2018-06-30,Auto,Unknown,Material and injury,37869.5,4,Yes,0
+496,63302691,Female,1978-02-27,WI,496-493-1743,Gold,81516433,Crime,2018-05-21,Auto,No,Material only,1820.0,1,No,1
+497,69473158,Male,1989-02-23,WA,962-461-7829,Gold,50068652,Driver error,2018-08-30,Auto,No,Material only,2070.0,1,No,1
+498,30943507,Female,1975-12-27,MO,184-859-7185,Silver,58428742,Driver error,2018-05-21,Auto,No,Material and injury,16040.0,1,No,1
+499,88072232,Male,1983-06-05,AZ,932-518-9524,Gold,78382955,Other driver error,2017-06-04,Auto,Yes,Material and injury,27310.0,3,No,1
+500,17859000,Female,1979-04-05,IA,732-758-2761,Gold,49401942,Crime,2017-02-10,Auto,No,Material only,2550.0,1,No,1
+501,44758258,Female,1985-11-14,NJ,789-241-7938,Silver,69139904,Driver error,2017-06-18,Auto,Unknown,Material and injury,27910.0,1,No,0
+502,59389375,Male,1988-11-03,VA,985-924-8693,Gold,43043339,Other causes,2017-12-17,Auto,Yes,Injury only,29480.0,3,No,1
+503,56357617,Male,1994-12-03,HI,479-834-2685,Gold,11023718,Natural causes,2018-04-04,Auto,Unknown,Material only,1300.0,1,No,0
+504,82034436,Female,1973-06-10,NH,612-831-3179,Gold,76743826,Other causes,2017-12-24,Auto,No,Injury only,37630.0,1,No,1
+505,85532819,Male,1979-05-09,NY,452-524-8423,Silver,50964521,Driver error,2017-11-06,Auto,Yes,Material and injury,25950.0,3,No,1
+506,23741962,Female,1968-08-06,NJ,493-483-5418,Silver,73283463,Other causes,2018-08-16,Auto,Unknown,Material and injury,27240.0,1,No,0
+507,96543848,Male,1965-12-07,WV,341-659-5319,Gold,64388927,Other driver error,2017-08-31,Auto,No,Injury only,30340.0,1,No,1
+508,91135917,Male,1986-08-15,NV,697-129-2549,Platinum,81102722,Other driver error,2018-09-12,Auto,No,Material only,2710.0,1,No,1
+509,524545,Female,1980-08-10,NC,798-862-5398,Gold,35782742,Other driver error,2018-07-27,Auto,No,Injury only,35250.0,3,No,1
+510,89479887,Male,1996-02-26,MO,527-156-6825,Platinum,75276533,Driver error,2017-03-09,Home,Yes,Injury only,38890.0,2,No,1
+511,73495163,Male,1974-12-30,NY,852-943-3847,Platinum,42320818,Driver error,2017-12-03,Auto,Yes,Material and injury,22570.0,1,No,1
+512,49889657,Male,1975-08-21,NE,528-923-7546,Silver,60904940,Natural causes,2018-05-01,Auto,Unknown,Material only,1140.0,1,No,0
+513,96931053,Female,1997-01-26,NV,958-657-4621,Gold,32944599,Other causes,2018-06-23,Home,Yes,Injury only,38120.0,1,No,1
+514,1300972,Female,1966-06-08,ID,378-587-1687,Platinum,4881066,Crime,2018-03-21,Home,No,Material only,2369.0,1,Yes,1
+515,83887508,Female,1969-06-07,ID,965-541-7429,Gold,96406656,Crime,2017-11-06,Auto,No,Material only,12467.68,3,Yes,1
+516,53897607,Female,1975-08-31,CO,975-825-8352,Gold,89967218,Other causes,2017-03-02,Auto,Unknown,Material only,1200.0,1,No,0
+517,92392817,Female,1988-02-09,ME,269-614-8632,Gold,63627029,Other driver error,2017-12-24,Auto,Unknown,Material only,2081.5,1,Yes,0
+518,75086914,Male,1965-11-18,LA,123-389-3254,Platinum,75778891,Other causes,2018-04-10,Auto,No,Material only,1050.0,1,No,1
+519,27868943,Female,1980-09-11,IN,951-875-3657,Platinum,88804995,Other driver error,2017-11-27,Auto,No,Material only,2550.0,2,No,1
+520,42238302,Male,1993-09-12,NY,764-365-5234,Platinum,73841606,Driver error,2017-11-13,Auto,Unknown,Material only,2590.0,2,No,0
+521,83882449,Male,1992-01-31,AR,361-389-8923,Platinum,49124611,Driver error,2017-09-20,Home,Yes,Material only,1644.5,1,Yes,1
+522,53191091,Male,1965-03-26,MD,592-942-4216,Silver,40460618,Crime,2017-03-22,Auto,Unknown,Material only,1265.0,1,Yes,0
+523,55836042,Male,1983-05-17,AR,687-713-6528,Silver,64046224,Driver error,2018-03-08,Home,No,Material only,1863.0,1,Yes,1
+524,19796899,Female,1975-12-17,TX,725-873-8239,Gold,9124181,Other driver error,2018-04-04,Auto,Yes,Material and injury,24667.5,1,Yes,1
+525,42014103,Male,1999-02-06,MS,561-657-4953,Gold,42019165,Driver error,2017-12-30,Home,No,Material only,2288.5,4,Yes,1
+526,66632396,Female,1961-02-13,MO,247-859-1298,Silver,57175639,Driver error,2017-08-11,Auto,No,Material only,1810.0,1,No,1
+527,34778857,Male,1975-08-10,TN,643-645-8493,Gold,56413364,Driver error,2017-04-25,Auto,Unknown,Material and injury,30015.0,1,Yes,0
+528,28437868,Female,1968-01-31,NY,398-185-7936,Platinum,4257735,Other driver error,2018-09-26,Auto,No,Material only,1300.0,1,No,1
+529,85641672,Male,1979-11-09,PA,512-318-6489,Platinum,98954915,Crime,2018-03-14,Auto,No,Material only,1860.0,1,No,1
+530,86985239,Male,1969-09-04,NV,194-354-9283,Gold,49758082,Driver error,2017-06-18,Auto,No,Material and injury,40880.0,1,No,1
+531,19409471,Male,1963-11-07,AR,215-978-4689,Silver,2434059,Other driver error,2017-06-18,Auto,No,Material only,1550.0,1,No,1
+532,98537509,Female,1989-09-10,NJ,342-312-9723,Gold,70156112,Driver error,2018-06-03,Auto,Unknown,Material and injury,20033.0,3,Yes,0
+533,36871042,Male,1999-02-20,RI,428-836-7356,Gold,25838638,Other causes,2017-04-25,Auto,No,Material and injury,20230.0,1,No,1
+534,62206180,Male,1967-12-09,NC,914-173-2839,Silver,16726169,Driver error,2018-06-17,Auto,No,Material only,1670.0,2,No,1
+535,6448629,Female,1984-10-23,SD,532-279-9851,Gold,74582054,Other causes,2018-04-17,Auto,Unknown,Material only,2714.0,1,Yes,0
+536,30197131,Female,1973-11-23,MT,518-765-8532,Gold,78146904,Other driver error,2018-06-17,Auto,No,Injury only,19297.0,1,Yes,1
+537,7988398,Male,1976-09-12,PA,459-421-4897,Gold,95997859,Driver error,2017-07-22,Auto,Unknown,Injury only,14720.0,1,No,0
+538,13687085,Male,1997-11-18,DE,137-146-7356,Platinum,37688454,Driver error,2018-01-13,Auto,Unknown,Injury only,16760.0,1,No,0
+539,30864915,Male,1982-07-09,LA,231-692-9132,Gold,32756328,Driver error,2018-05-28,Auto,No,Material only,2440.0,1,No,1
+540,44665885,Female,1994-08-15,CT,312-791-7619,Platinum,80167666,Other driver error,2018-07-07,Auto,Yes,Material and injury,40170.0,1,No,1
+541,14604149,Male,1964-04-07,IL,458-539-9346,Platinum,2772206,Driver error,2017-03-29,Auto,Yes,Material and injury,36350.0,1,No,1
+542,9600820,Female,1962-02-19,MN,356-384-4378,Gold,41574198,Other causes,2018-09-06,Auto,Unknown,Injury only,29830.0,1,No,0
+543,54275114,Male,1968-07-22,MT,913-256-4138,Gold,51377827,Other driver error,2018-05-14,Auto,Yes,Material and injury,29530.0,1,No,1
+544,24065986,Male,1998-11-25,PA,416-398-8934,Silver,81369109,Natural causes,2018-10-03,Home,Yes,Injury only,34970.0,1,No,1
+545,52208972,Female,1976-12-22,OR,563-624-6872,Silver,62827687,Other causes,2018-02-02,Home,No,Material only,2550.0,1,No,1
+546,13435761,Female,1973-07-24,GA,241-382-4182,Gold,22489374,Natural causes,2017-04-18,Auto,No,Material only,2590.0,1,No,1
+547,64916376,Male,1999-07-24,MD,723-957-1396,Platinum,55881539,Other causes,2017-01-27,Auto,No,Material only,2850.0,2,No,1
+548,35895151,Male,1976-08-12,VT,158-152-8735,Platinum,49545697,Driver error,2018-03-08,Auto,No,Material only,2470.0,3,No,1
+549,8201624,Female,1980-11-11,NV,761-527-7361,Platinum,2248378,Natural causes,2017-05-22,Auto,No,Material only,2932.5,4,Yes,1
+550,55933927,Male,1965-11-02,AL,143-139-8267,Gold,21658094,Other causes,2018-07-20,Home,No,Material and injury,27404.5,2,Yes,1
+551,65899365,Female,1973-07-25,TX,135-971-8567,Platinum,86096444,Driver error,2018-07-14,Auto,No,Material and injury,34160.0,1,No,1
+552,57025376,Female,1965-09-20,OH,724-817-2586,Silver,32067078,Other driver error,2017-05-15,Auto,No,Material only,1430.0,1,No,1
+553,92189083,Male,1964-05-07,TN,935-642-8416,Gold,96864459,Natural causes,2018-05-28,Auto,Yes,Injury only,19960.0,4,No,1
+554,83836752,Female,1986-05-24,MS,435-561-9674,Platinum,45600936,Other driver error,2018-04-24,Auto,No,Material only,1480.0,2,No,1
+555,43806629,Female,1986-11-05,MN,561-183-4857,Gold,85493235,Other driver error,2018-07-07,Home,No,Material only,2960.0,3,No,1
+556,7303971,Male,1992-03-12,ME,691-856-6412,Silver,65990431,Natural causes,2018-06-03,Auto,No,Material only,1170.0,1,No,1
+557,35189228,Male,1974-10-29,RI,951-982-4276,Gold,52113932,Driver error,2018-06-17,Home,Unknown,Material only,1280.0,1,No,0
+558,47879133,Female,1981-12-16,CT,918-957-1486,Gold,33229705,Natural causes,2018-02-22,Auto,No,Material only,1110.0,4,No,1
+559,25550440,Male,1984-08-11,NY,173-589-2678,Gold,31609133,Natural causes,2018-03-08,Auto,Unknown,Material and injury,17721.5,1,Yes,0
+560,38718253,Male,1968-07-19,IL,423-385-8591,Gold,48386458,Other causes,2017-11-13,Auto,Unknown,Injury only,30060.0,1,No,0
+561,44632301,Female,1981-02-23,WV,261-697-1863,Silver,37692448,Other driver error,2018-01-06,Auto,Yes,Injury only,44666.0,1,Yes,1
+562,46691405,Male,1999-12-03,NY,849-637-4683,Gold,50552314,Other causes,2017-07-22,Auto,Unknown,Injury only,28230.0,1,No,0
+563,96395873,Female,1963-10-13,PA,397-921-2875,Platinum,59164542,Crime,2017-09-20,Auto,No,Material only,2410.0,1,No,1
+564,25582668,Female,1993-06-20,SD,843-873-3714,Platinum,35976362,Natural causes,2017-06-11,Auto,No,Material only,1265.0,1,Yes,1
+565,21969808,Female,1998-10-07,IA,961-647-1945,Platinum,61950339,Natural causes,2018-05-21,Auto,No,Material only,1725.0,1,Yes,1
+566,56525103,Male,1999-12-27,CO,312-385-7329,Gold,86644908,Other driver error,2018-04-17,Auto,Unknown,Injury only,19320.0,1,No,0
+567,59510159,Male,1981-05-27,IN,421-734-8421,Gold,98940053,Other driver error,2017-05-15,Auto,No,Material only,2430.0,3,No,1
+568,76666463,Female,1991-01-30,DE,614-357-3216,Gold,49974494,Crime,2017-08-11,Auto,No,Material only,1000.0,2,No,1
+569,10330113,Female,1996-02-23,ID,124-294-1973,Platinum,26308516,Other causes,2017-12-17,Auto,No,Material and injury,29060.0,3,No,1
+570,85250389,Female,1967-05-08,TX,827-367-5247,Platinum,9129053,Other driver error,2017-03-02,Auto,Unknown,Injury only,24380.0,1,Yes,0
+571,17330419,Female,1998-12-15,DE,625-981-8926,Silver,13865732,Crime,2017-03-16,Auto,Unknown,Material and injury,33210.0,1,No,0
+572,62935855,Male,1993-12-16,MD,162-183-8139,Gold,53902980,Other driver error,2017-08-18,Auto,No,Material only,2370.0,1,No,1
+573,27304494,Male,1965-05-11,MO,214-139-4297,Gold,52239485,Other causes,2018-06-17,Auto,Unknown,Material and injury,26630.0,1,No,0
+574,15820948,Male,1964-02-22,TX,583-641-3184,Silver,53831641,Driver error,2017-09-27,Auto,Yes,Material and injury,14570.0,1,No,1
+575,25989608,Female,1997-03-04,IA,498-475-7823,Gold,97044473,Other driver error,2017-06-18,Auto,No,Material only,1700.0,1,No,1
+576,64214079,Male,1981-02-26,ME,579-765-9642,Gold,55084633,Other causes,2017-06-18,Auto,Yes,Material and injury,30230.0,1,No,1
+577,58468142,Female,1995-03-21,TX,684-172-1892,Gold,54580698,Natural causes,2017-05-09,Auto,No,Material only,1300.0,1,No,1
+578,12108789,Female,1967-04-09,IA,529-962-3471,Gold,39063220,Other causes,2018-03-14,Auto,Yes,Material and injury,23851.0,1,Yes,1
+579,25365364,Male,1973-04-29,RI,362-491-4692,Platinum,37576598,Other causes,2017-02-10,Auto,No,Material only,1100.0,2,No,1
+580,76339681,Female,1990-03-08,MI,843-529-3256,Platinum,70575561,Crime,2018-09-06,Home,Unknown,Material only,1910.0,1,No,0
+581,97514724,Male,1969-06-08,FL,641-684-7986,Platinum,97666948,Driver error,2017-01-01,Home,No,Injury only,19120.0,1,No,1
+582,14501963,Male,1980-10-24,NM,978-631-4759,Gold,6429479,Driver error,2017-10-24,Auto,No,Material and injury,47748.0,3,Yes,1
+583,41673539,Female,1997-03-23,ID,738-935-7236,Platinum,76762783,Crime,2018-01-06,Auto,Yes,Material and injury,44838.5,1,Yes,1
+584,47730331,Male,1984-08-02,MD,295-618-9248,Platinum,45452514,Other causes,2018-08-23,Home,Unknown,Material only,1580.0,1,No,0
+585,91180828,Female,1987-03-17,MI,136-473-6752,Platinum,39518274,Other causes,2018-09-26,Auto,Unknown,Material and injury,28382.0,1,Yes,0
+586,86237672,Male,1963-07-26,IL,384-642-8162,Gold,32160912,Natural causes,2018-02-09,Auto,Unknown,Material only,1530.0,1,No,0
+587,47437882,Male,1988-01-04,AR,819-543-1365,Platinum,6313876,Other driver error,2017-06-25,Auto,Unknown,Material and injury,27830.0,2,No,0
+588,87092211,Male,1980-06-20,ME,128-398-1894,Silver,62249925,Driver error,2018-10-09,Auto,No,Material only,2340.0,1,No,1
+589,49820646,Male,1984-03-03,IL,761-237-6184,Silver,80402957,Driver error,2018-09-06,Auto,Unknown,Material and injury,22011.0,2,Yes,0
+590,77542013,Male,1977-10-19,CO,652-914-5274,Platinum,27354249,Driver error,2017-05-15,Auto,No,Material only,2540.0,1,No,1
+591,40950455,Male,1978-09-19,TX,679-963-5234,Gold,24770112,Natural causes,2017-08-24,Auto,No,Material only,2790.0,1,No,1
+592,97115629,Female,1996-09-22,MT,295-347-9854,Gold,66888980,Other causes,2018-04-04,Auto,No,Material only,2910.0,1,No,1
+593,30831279,Male,1984-05-28,ME,516-973-5972,Silver,68461060,Other causes,2017-01-27,Auto,Yes,Injury only,20720.0,1,No,1
+594,28866353,Male,1967-03-07,ID,973-967-2815,Silver,54174244,Crime,2017-09-14,Auto,No,Material only,2334.5,1,Yes,1
+595,23142036,Female,1984-03-10,CO,628-758-6123,Gold,24522981,Other driver error,2017-08-04,Auto,Yes,Material only,1600.0,1,No,1
+596,89986804,Female,1966-04-02,LA,163-572-9136,Silver,6643536,Other causes,2017-11-27,Auto,Yes,Material and injury,37380.0,1,No,1
+597,44467682,Male,1993-12-27,IN,571-162-2735,Gold,80758625,Driver error,2018-04-04,Home,No,Material only,1460.0,4,No,1
+598,45812655,Male,1995-08-11,VA,123-346-2854,Gold,80523716,Driver error,2018-10-16,Home,No,Material only,1790.0,1,No,1
+599,49531152,Male,1971-02-23,FL,857-681-7518,Platinum,48518908,Driver error,2017-01-21,Auto,Unknown,Material only,1040.0,1,No,0
+600,5152503,Male,1975-08-27,ND,126-721-7382,Silver,18739929,Crime,2017-01-07,Auto,No,Material only,1759.5,4,Yes,1
+601,41093135,Female,1982-03-13,NV,273-769-6917,Gold,94983660,Driver error,2018-03-08,Auto,Unknown,Material and injury,29480.0,1,No,0
+602,61806100,Female,1992-01-07,OR,927-618-7894,Platinum,73658027,Crime,2017-09-20,Auto,Unknown,Material only,1040.0,2,No,0
+603,81909700,Female,1961-01-14,IN,392-153-3128,Platinum,81308209,Natural causes,2018-04-04,Home,No,Material only,2440.0,1,No,1
+604,7891758,Male,1982-01-16,ID,596-842-1325,Platinum,39795153,Natural causes,2018-07-07,Auto,No,Material only,1140.0,1,No,1
+605,95560169,Male,1973-03-25,RI,597-124-3297,Platinum,29685280,Other driver error,2017-02-23,Auto,Unknown,Injury only,34950.0,1,No,0
+606,48477566,Female,1992-10-22,AR,641-298-6278,Platinum,77152566,Other driver error,2017-03-22,Auto,No,Material only,2980.0,1,No,1
+607,9775143,Female,1995-01-10,LA,921-936-1682,Silver,72674711,Other driver error,2018-06-03,Auto,No,Material only,2130.0,1,No,1
+608,39959491,Female,1995-04-07,DE,139-742-5417,Silver,54642809,Driver error,2018-09-06,Auto,Unknown,Material only,2720.0,1,No,0
+609,69355027,Female,1964-12-17,MO,354-352-3891,Silver,98163164,Crime,2018-09-26,Auto,Unknown,Material only,2950.0,1,No,0
+610,95639174,Male,1962-04-18,MD,574-785-1593,Platinum,3679965,Natural causes,2017-08-04,Auto,No,Material only,2840.0,4,No,1
+611,82028774,Male,1960-07-05,ME,935-874-7328,Platinum,68733687,Driver error,2017-03-29,Auto,Unknown,Material and injury,38065.0,4,Yes,0
+612,48673624,Female,1976-03-21,ID,536-156-4179,Platinum,83531718,Driver error,2017-10-10,Auto,Yes,Material and injury,26440.0,2,No,1
+613,41009394,Female,1984-07-06,UT,384-934-5241,Gold,89824066,Other causes,2017-02-23,Auto,No,Material only,12467.68,4,Yes,1
+614,42726730,Female,1966-03-03,IL,925-473-6217,Gold,47009317,Other causes,2018-05-07,Auto,Unknown,Material and injury,28400.0,1,No,0
+615,18062339,Male,1976-05-10,MO,572-567-1943,Silver,75950191,Driver error,2018-10-03,Auto,Unknown,Material only,1320.0,1,No,0
+616,6540281,Male,1993-02-08,AR,196-527-8275,Silver,19454050,Other causes,2018-01-13,Auto,No,Material only,2120.0,1,No,1
+617,61582066,Female,1997-04-04,GA,385-513-8153,Platinum,41214204,Natural causes,2018-02-15,Auto,No,Material only,2000.0,1,No,1
+618,49058491,Female,1973-02-28,AL,794-453-2839,Platinum,14042956,Crime,2017-10-17,Auto,Unknown,Material only,2150.0,1,No,0
+619,3124373,Male,1979-12-18,IA,527-891-4692,Platinum,42133860,Natural causes,2017-01-21,Auto,Unknown,Material only,1350.0,2,No,0
+620,5345468,Female,1993-03-21,DE,279-185-9127,Platinum,7265365,Other causes,2017-07-08,Auto,Unknown,Injury only,18570.0,1,No,0
+622,84147585,Male,1972-10-18,AK,743-569-4783,Gold,78221963,Driver error,2018-04-10,Auto,Yes,Injury only,14430.0,4,No,1
+624,85357756,Male,1970-01-02,PA,915-698-3649,Platinum,1654201,Driver error,2018-06-23,Auto,Unknown,Material only,2510.0,1,No,0
+626,53539195,Male,1989-10-02,NV,914-342-8239,Gold,41779510,Driver error,2018-10-03,Home,No,Injury only,25040.0,1,No,1
+627,47153140,Male,1990-07-22,ID,738-413-2418,Platinum,47786788,Natural causes,2017-10-24,Auto,No,Material only,1700.0,1,No,1
+628,34369658,Female,1985-08-05,IN,897-847-6547,Gold,2725264,Other causes,2017-05-22,Auto,No,Material only,2330.0,1,No,1
+629,14477985,Male,1998-07-09,NE,496-361-3285,Silver,7384147,Natural causes,2017-05-02,Auto,Unknown,Injury only,13100.0,5,No,0
+630,66521317,Male,1991-09-03,SD,519-549-9375,Silver,36174594,Natural causes,2017-03-16,Auto,No,Material only,12467.68,1,No,1
+631,9081086,Male,1976-08-06,WA,254-273-2185,Silver,91772998,Driver error,2018-04-24,Auto,Yes,Injury only,34470.0,1,No,1
+632,47237571,Female,1984-11-14,MI,982-854-4365,Platinum,8216191,Other causes,2018-08-16,Home,No,Material and injury,40930.0,1,No,1
+633,91010040,Male,1998-01-27,VA,329-421-9842,Gold,67389802,Crime,2018-08-16,Auto,No,Material only,2460.0,1,No,1
+634,69050904,Female,1996-02-19,ID,561-736-4597,Gold,17961815,Natural causes,2018-07-14,Auto,No,Material only,1060.0,1,No,1
+635,69128619,Male,1991-05-18,OK,728-846-5942,Gold,16637107,Natural causes,2018-08-23,Home,No,Material and injury,19040.0,4,No,1
+636,76933532,Female,1976-10-04,PA,892-468-9436,Platinum,18226024,Other causes,2018-01-26,Auto,No,Material only,2150.0,3,No,1
+637,25174766,Female,1995-07-19,VT,298-139-6894,Platinum,83706832,Other driver error,2017-02-23,Auto,No,Material only,1060.0,1,No,1
+638,38923726,Female,1988-04-28,VT,182-927-4389,Gold,38488079,Other causes,2018-07-27,Auto,No,Injury only,26850.0,1,No,1
+639,53225913,Female,1964-04-08,WY,568-238-7849,Silver,30691877,Crime,2017-10-31,Auto,No,Material only,3381.0,2,Yes,1
+640,83086717,Male,1965-10-12,SC,948-634-1547,Gold,52826622,Driver error,2017-02-17,Auto,No,Material and injury,23940.0,1,No,1
+641,40460125,Female,1997-12-29,KY,149-439-8456,Silver,22476903,Other causes,2017-02-03,Auto,No,Material only,1564.0,1,Yes,1
+642,88200222,Female,1966-09-15,NM,234-625-7536,Silver,86506515,Crime,2018-03-28,Auto,Unknown,Material only,1780.0,1,No,0
+643,88878373,Female,1966-07-05,CT,536-642-3159,Gold,69620654,Other causes,2017-01-21,Auto,Unknown,Material only,3001.5,2,Yes,0
+644,97545319,Male,1963-04-18,OR,749-261-7893,Silver,3487779,Crime,2018-06-30,Auto,No,Injury only,33520.0,1,No,1
+645,64610611,Male,1987-07-15,MO,854-324-1974,Silver,75470279,Driver error,2018-01-26,Auto,Yes,Injury only,35910.0,3,No,1
+646,24310699,Male,1981-11-21,ME,857-617-2867,Platinum,48386154,Natural causes,2018-01-26,Auto,Unknown,Material only,1210.0,1,No,0
+647,42569977,Female,1997-03-24,MS,532-438-5347,Silver,52262269,Other driver error,2017-04-18,Auto,Yes,Material and injury,36170.0,1,No,1
+648,34803042,Female,1969-01-01,MI,148-169-8712,Platinum,79783763,Driver error,2018-03-21,Auto,No,Material only,1265.0,1,Yes,1
+649,25512276,Male,1983-12-18,NY,748-391-1549,Gold,89665136,Driver error,2017-11-13,Auto,No,Material and injury,16380.0,1,No,1
+650,9205013,Male,1963-12-11,DE,239-368-6759,Platinum,40283824,Driver error,2018-06-17,Auto,Yes,Material and injury,23430.0,1,No,1
+651,29517588,Female,1999-09-15,OH,783-978-8392,Silver,74043997,Natural causes,2018-08-03,Auto,No,Material only,2553.0,4,Yes,1
+652,71462870,Male,1981-04-27,NJ,495-278-7638,Platinum,45864947,Crime,2017-11-13,Auto,No,Material only,1870.0,3,No,1
+653,53886536,Male,1960-08-19,FL,879-351-3681,Gold,54333326,Driver error,2017-07-28,Auto,No,Material only,2270.0,1,No,1
+654,89279737,Female,1964-11-04,OK,912-289-1532,Platinum,93183406,Driver error,2017-10-31,Auto,No,Material and injury,21920.0,1,No,1
+655,5027573,Male,1989-08-27,NM,948-589-4138,Gold,8199355,Natural causes,2017-02-10,Auto,No,Material only,1490.0,1,No,1
+656,69204774,Male,1960-06-18,MA,613-746-6123,Platinum,10852541,Other causes,2018-05-01,Auto,No,Material only,2265.5,1,Yes,1
+657,9466593,Female,1978-05-21,CT,826-527-2935,Gold,21734808,Driver error,2017-08-11,Auto,No,Material only,1472.0,1,Yes,1
+658,30679789,Female,1971-07-27,RI,571-543-7321,Silver,10245277,Crime,2018-06-10,Auto,Unknown,Injury only,36010.0,2,No,0
+659,15000907,Male,1964-07-27,NH,658-953-7692,Silver,63191767,Driver error,2017-07-08,Auto,No,Material only,2340.0,3,No,1
+660,96795364,Female,1963-07-27,TX,548-374-3892,Silver,52752958,Other causes,2017-11-13,Auto,Unknown,Material only,2250.0,1,No,0
+661,33152432,Female,1988-03-25,IL,752-932-1462,Gold,31711102,Other driver error,2018-03-01,Auto,No,Material only,1500.0,1,No,1
+662,42867092,Female,1970-08-22,SC,596-249-8736,Silver,64659108,Other causes,2018-05-28,Auto,No,Injury only,12467.68,1,Yes,1
+663,47145694,Female,1961-07-18,MT,642-359-2349,Gold,72987943,Other driver error,2017-08-31,Auto,No,Material only,1590.0,1,No,1
+664,72833735,Female,1971-01-17,KY,893-531-9732,Silver,79708200,Crime,2018-04-24,Auto,Unknown,Material only,2495.5,1,Yes,0
+665,3771583,Female,1978-02-12,OK,972-634-1294,Silver,97455990,Other causes,2017-01-27,Auto,No,Material only,1242.0,1,Yes,1
+666,8609975,Male,1967-12-27,TN,142-326-1568,Platinum,51408016,Natural causes,2017-02-10,Auto,No,Material only,2890.0,1,No,1
+667,29235935,Female,1998-10-27,MD,281-869-9351,Platinum,44394229,Driver error,2017-08-24,Auto,Yes,Injury only,30500.0,1,No,1
+668,35459428,Male,1991-11-06,NH,642-462-7695,Silver,90369587,Driver error,2017-03-09,Auto,No,Injury only,32040.0,6,No,1
+669,2917414,Female,1982-08-30,SD,725-146-3826,Platinum,31487982,Other causes,2017-03-16,Auto,No,Material and injury,17070.0,1,No,1
+670,55982230,Male,1991-05-05,MO,152-467-3764,Platinum,15510973,Other driver error,2018-01-06,Auto,Unknown,Material and injury,29428.5,1,Yes,0
+671,69872861,Female,1964-03-05,VA,872-897-8156,Silver,40870759,Other causes,2017-03-02,Home,No,Material only,2900.0,3,No,1
+672,44866465,Male,1992-08-31,SD,738-518-3125,Silver,81034752,Other causes,2017-11-13,Auto,Yes,Injury only,31240.0,1,No,1
+673,39554038,Male,1970-04-05,MT,537-231-1768,Silver,77521871,Driver error,2018-07-14,Auto,No,Material only,2047.0,1,Yes,1
+674,14712345,Male,1992-12-05,TN,527-732-1987,Silver,23669610,Natural causes,2018-01-20,Auto,Unknown,Material only,1630.0,1,No,0
+675,41660480,Female,1980-01-11,ID,439-961-5261,Silver,61635645,Driver error,2018-06-23,Home,No,Material only,12467.68,1,No,1
+676,53981675,Male,1986-04-09,SC,839-731-7381,Platinum,95115614,Driver error,2018-03-21,Auto,No,Material and injury,21940.0,1,No,1
+677,287476,Male,1988-07-28,FL,364-598-1549,Silver,45780237,Natural causes,2017-10-17,Auto,Unknown,Material only,1621.5,2,Yes,0
+678,58378868,Female,1984-10-29,IA,367-512-2167,Gold,46992958,Driver error,2018-04-10,Auto,No,Material only,1240.0,2,No,1
+679,62960540,Male,1988-07-29,TN,159-976-1642,Silver,37713174,Other causes,2018-06-03,Auto,No,Injury only,34390.0,4,No,1
+680,36780334,Male,1976-01-11,VT,253-864-1967,Silver,13952270,Natural causes,2018-02-22,Auto,No,Material only,2340.0,1,No,1
+681,17814402,Female,1984-07-14,PA,136-379-5432,Silver,45544311,Driver error,2017-02-03,Auto,No,Material and injury,35480.0,1,No,1
+682,4420512,Male,1991-05-27,PA,316-643-2935,Silver,4342527,Natural causes,2017-01-07,Auto,No,Material only,1860.0,1,No,1
+683,51485708,Female,1997-04-23,WI,219-562-9756,Gold,16347699,Crime,2018-09-19,Auto,No,Material only,2010.0,1,No,1
+684,71496799,Male,1995-05-27,ND,843-251-7481,Platinum,88554126,Natural causes,2017-06-04,Auto,No,Material only,2520.0,1,No,1
+685,85983291,Female,1962-06-19,AR,715-829-4859,Gold,74280541,Other causes,2018-05-07,Auto,No,Material only,1518.0,3,Yes,1
+686,29500814,Male,1962-10-09,SD,476-851-9768,Platinum,8623615,Crime,2017-03-09,Auto,No,Material only,2150.5,5,Yes,1
+687,74351384,Male,1986-07-02,LA,372-572-7263,Silver,41352743,Driver error,2018-07-20,Auto,No,Material only,12467.68,1,No,1
+688,72363224,Male,1969-01-06,SC,271-324-8534,Silver,78204177,Natural causes,2018-01-13,Auto,No,Material only,1500.0,1,No,1
+689,41106063,Male,1988-03-26,FL,284-876-9462,Gold,47463520,Driver error,2018-10-03,Home,No,Material only,2830.0,1,No,1
+690,57043846,Male,1996-12-24,RI,756-197-4972,Silver,38818122,Other causes,2017-04-05,Auto,Yes,Injury only,34490.0,1,No,1
+691,31740446,Male,1973-03-26,NY,163-473-1482,Gold,36164960,Natural causes,2017-03-09,Auto,No,Material only,2553.0,1,Yes,1
+692,17690710,Male,1973-03-03,ME,693-739-2369,Silver,3271117,Crime,2017-07-28,Auto,Yes,Injury only,32180.0,1,No,1
+693,50771198,Male,1994-12-15,ND,361-249-7392,Silver,73337887,Other causes,2017-04-05,Auto,Yes,Material only,1020.0,1,No,1
+694,23460895,Male,1967-01-22,CT,567-179-5829,Platinum,73456426,Other causes,2018-08-10,Auto,No,Material and injury,34994.5,1,Yes,1
+695,33628817,Male,1964-08-12,MS,243-497-9317,Silver,50234626,Other causes,2017-04-12,Auto,Yes,Material only,2800.0,1,No,1
+696,32791401,Male,1994-07-27,MN,421-738-4967,Platinum,85883298,Driver error,2017-06-18,Auto,No,Material only,1630.0,1,No,1
+697,86491727,Female,1997-01-29,IL,294-187-3286,Gold,32178193,Driver error,2018-10-30,Home,Unknown,Material only,1860.0,1,No,0
+698,99674324,Male,1965-01-28,UT,517-562-4916,Silver,4549014,Other causes,2018-07-07,Auto,No,Injury only,21480.0,1,No,1
+699,81371138,Female,1963-11-09,MI,198-641-6743,Gold,57099061,Other causes,2017-07-28,Auto,No,Material only,3358.0,1,Yes,1
+700,30199988,Female,1965-03-17,WY,321-296-9823,Platinum,16326173,Other causes,2017-07-28,Auto,No,Material only,1978.0,3,Yes,1
+701,20299691,Male,1988-07-04,TN,375-958-4571,Platinum,90831325,Natural causes,2017-10-04,Auto,No,Material only,2093.0,5,Yes,1
+702,40591588,Male,1984-11-01,CA,652-837-5837,Silver,80286970,Driver error,2017-04-25,Auto,Unknown,Material and injury,39928.0,1,Yes,0
+703,28871739,Female,1977-04-29,NY,132-423-5694,Platinum,86285484,Other causes,2018-10-09,Auto,No,Material only,1920.5,1,Yes,1
+704,46995469,Male,1973-08-23,MA,592-471-5829,Platinum,91324151,Driver error,2017-08-24,Auto,No,Material only,2520.0,1,No,1
+705,8774687,Male,1980-05-08,KS,813-179-4628,Silver,71690988,Other causes,2018-01-20,Auto,No,Material only,12467.68,1,No,1
+706,42083451,Male,1967-11-23,AK,689-375-9463,Platinum,6365892,Driver error,2017-08-31,Auto,No,Material only,2400.0,1,No,1
+707,50560987,Male,1971-01-28,NM,927-641-9614,Platinum,36047575,Other causes,2018-09-06,Auto,Unknown,Material and injury,21700.0,3,No,0
+708,88881248,Female,1963-05-03,SC,389-128-5432,Gold,68716231,Driver error,2018-04-24,Auto,Yes,Material only,1610.0,4,No,1
+709,30060683,Female,1983-07-02,AR,549-267-4197,Gold,57073975,Other causes,2017-01-21,Auto,No,Material only,2160.0,1,No,1
+710,28999720,Male,1968-11-02,FL,534-219-7419,Platinum,12839550,Crime,2017-07-01,Auto,Unknown,Material only,2360.0,1,No,0
+711,40971431,Female,1975-07-08,DE,519-935-1384,Platinum,92426104,Other causes,2017-01-14,Auto,No,Material and injury,46483.0,1,Yes,1
+712,46866733,Female,1969-01-18,MN,453-351-9582,Gold,97877027,Other driver error,2018-05-07,Auto,Yes,Injury only,12467.68,3,No,1
+713,6563653,Male,1976-03-02,NV,257-579-6281,Platinum,24499029,Other causes,2018-06-23,Auto,Unknown,Material and injury,21530.0,2,No,0
+714,9959859,Male,1970-11-18,NV,265-456-8296,Gold,68477126,Crime,2017-04-12,Auto,No,Material only,3105.0,3,Yes,1
+715,71404791,Female,1979-09-08,NJ,154-695-4765,Gold,75728799,Other driver error,2017-09-20,Auto,No,Material only,1368.5,3,Yes,1
+716,73491590,Female,1987-06-18,TX,196-126-1725,Gold,90380974,Other causes,2017-10-17,Home,Unknown,Material only,2270.0,4,No,0
+717,11429044,Male,1978-03-16,NC,972-651-4751,Silver,70157196,Other driver error,2017-09-07,Auto,Yes,Material and injury,33730.0,1,No,1
+718,45634936,Female,1967-06-11,OK,173-527-4698,Platinum,3109692,Other driver error,2018-07-07,Auto,No,Material only,1890.0,1,No,1
+719,71108576,Male,1966-12-20,AL,783-148-8715,Silver,45237349,Driver error,2018-01-26,Auto,No,Material and injury,39997.0,1,Yes,1
+720,9017128,Female,1967-11-29,MS,951-573-4932,Silver,54356654,Other causes,2017-03-16,Auto,Unknown,Material and injury,19530.0,1,No,0
+721,72587271,Female,1971-09-09,OK,372-592-3274,Silver,17339152,Other causes,2017-10-17,Auto,Unknown,Injury only,18140.0,2,No,0
+722,12673582,Female,1982-05-15,VT,869-941-8925,Gold,77576085,Other causes,2017-10-31,Auto,Unknown,Injury only,33400.0,1,No,0
+723,44821508,Male,1972-02-27,KY,651-851-4785,Platinum,51004421,Crime,2018-01-06,Home,No,Material only,2740.0,2,No,1
+724,85683729,Male,1975-08-23,SD,416-182-5128,Silver,77750303,Other causes,2018-03-14,Auto,No,Material only,12467.68,1,No,1
+725,90115894,Male,1969-11-16,OH,327-875-8379,Platinum,94869704,Natural causes,2017-10-04,Auto,Yes,Material only,2240.0,1,No,1
+726,45566276,Male,1980-05-31,TX,362-764-1857,Platinum,51895230,Natural causes,2017-10-31,Auto,No,Material only,3231.5,4,Yes,1
+727,12827745,Female,1972-11-16,HI,845-491-5421,Silver,88838829,Natural causes,2017-10-31,Auto,Unknown,Injury only,19470.0,1,No,0
+728,28590552,Female,1964-01-10,TN,189-813-7561,Silver,26678377,Other causes,2018-10-23,Auto,Unknown,Material and injury,25160.0,1,No,0
+729,15965441,Female,1974-05-26,NV,327-934-6843,Silver,74826240,Driver error,2018-01-06,Auto,No,Material only,2120.0,1,No,1
+730,12779308,Female,1985-02-03,SD,415-968-7496,Platinum,71212663,Other causes,2018-04-04,Auto,No,Material only,1560.0,1,No,1
+731,53719176,Male,1992-05-29,FL,174-342-7516,Silver,43635378,Other driver error,2018-05-14,Auto,Unknown,Injury only,12467.68,6,Yes,0
+732,51842360,Female,1976-12-03,AK,147-475-9412,Platinum,75624437,Other causes,2017-01-27,Home,No,Material only,1130.0,1,No,1
+733,56398264,Female,1979-06-29,NY,713-394-6524,Silver,20605494,Natural causes,2018-01-06,Auto,Unknown,Material only,2090.0,2,No,0
+734,73898057,Female,1960-05-25,KS,418-459-4571,Platinum,34947297,Other causes,2018-03-21,Auto,Unknown,Material only,1610.0,4,Yes,0
+735,2476913,Male,1983-06-06,OH,591-934-6948,Gold,92782157,Driver error,2017-09-07,Auto,No,Injury only,22130.0,1,No,1
+736,66267050,Female,1962-05-14,NE,716-145-5671,Gold,94080912,Other causes,2017-12-30,Auto,No,Material only,2250.0,1,No,1
+737,46551094,Female,1970-08-01,OR,564-598-2173,Platinum,78194735,Other driver error,2018-07-20,Auto,Yes,Material and injury,33640.0,1,No,1
+738,5061178,Female,1972-10-14,AR,532-216-1635,Silver,80180191,Other driver error,2017-07-08,Auto,No,Material and injury,19100.0,1,No,1
+739,29323970,Male,1971-03-03,NE,783-653-9163,Gold,58878919,Driver error,2017-01-01,Auto,Unknown,Material only,1840.0,1,Yes,0
+740,67243622,Male,1986-10-17,NE,715-435-9327,Gold,6342208,Other driver error,2018-01-20,Auto,Unknown,Material only,12467.68,1,No,0
+741,62861487,Male,1987-08-09,NV,851-758-3157,Gold,39476021,Other causes,2018-10-23,Auto,Yes,Injury only,19340.0,1,No,1
+742,98083433,Male,1971-10-16,CA,912-418-8739,Gold,24782645,Driver error,2017-05-02,Auto,No,Material only,1120.0,3,No,1
+743,15681024,Female,1983-11-28,AL,216-539-3569,Silver,30927069,Natural causes,2017-03-22,Auto,No,Material and injury,14220.0,1,No,1
+744,92644503,Male,1989-04-18,PA,845-829-8214,Gold,65211497,Other driver error,2017-11-20,Auto,Yes,Injury only,18650.0,1,No,1
+745,65916260,Female,1996-04-06,KS,687-698-6425,Platinum,98646052,Other driver error,2018-07-07,Auto,No,Material only,3415.5,1,Yes,1
+746,34953203,Female,1997-05-09,ME,728-597-3415,Platinum,43489145,Other driver error,2017-02-23,Auto,Yes,Injury only,19400.0,1,No,1
+747,99961993,Male,1995-06-10,AL,234-943-2876,Platinum,47262068,Driver error,2018-10-23,Home,No,Material only,2310.0,1,No,1
+748,42098367,Female,1974-10-27,MA,278-485-6849,Gold,16286241,Other causes,2018-10-09,Auto,Unknown,Material and injury,24621.5,1,Yes,0
+749,9130038,Female,1964-11-22,TN,382-247-4267,Silver,51587897,Natural causes,2017-08-31,Auto,No,Material only,3128.0,1,Yes,1
+750,80562391,Female,1960-02-24,NY,521-689-3269,Gold,2228834,Crime,2017-03-29,Auto,Unknown,Material only,3369.5,1,Yes,0
+751,28932340,Male,1996-01-05,LA,652-265-8231,Gold,25213498,Driver error,2018-10-30,Auto,Unknown,Material only,12467.68,1,No,0
+752,79212942,Female,1960-01-31,NY,371-639-4189,Platinum,86303772,Other driver error,2018-06-23,Auto,Unknown,Material and injury,12467.68,1,No,0
+753,5864769,Male,1982-11-17,CO,314-953-3162,Gold,63268924,Crime,2017-12-30,Auto,Yes,Injury only,34460.0,1,No,1
+754,3955265,Male,1977-02-27,IN,324-296-9625,Platinum,30225071,Other causes,2017-02-17,Auto,Unknown,Material and injury,37740.0,1,No,0
+755,42882285,Female,1962-12-21,SD,149-928-6451,Platinum,18824405,Natural causes,2017-01-21,Auto,No,Material only,2357.5,1,Yes,1
+756,96134505,Female,1984-06-03,CT,832-482-4236,Silver,38416376,Other driver error,2017-05-22,Auto,No,Injury only,33522.5,1,Yes,1
+757,8375366,Female,1963-07-29,AL,875-392-9487,Gold,46163490,Crime,2017-12-03,Auto,Unknown,Material only,2110.0,1,No,0
+758,82000019,Male,1992-10-10,MI,785-894-3194,Silver,23027360,Driver error,2018-03-08,Auto,No,Injury only,33752.5,1,Yes,1
+759,30394029,Female,1970-01-08,SC,742-324-8253,Gold,90155895,Other driver error,2018-07-20,Auto,No,Material only,1070.0,3,No,1
+760,51525336,Female,1978-06-06,HI,485-435-7918,Silver,95712960,Other causes,2017-06-04,Auto,Unknown,Injury only,33465.0,1,Yes,0
+761,54963034,Female,1966-04-14,CT,937-293-7985,Platinum,10714529,Crime,2018-08-03,Auto,Yes,Injury only,16480.0,3,No,1
+762,90876878,Male,1993-03-20,OH,897-689-5672,Silver,20402925,Driver error,2018-07-27,Auto,Unknown,Injury only,13820.0,1,No,0
+763,16216085,Female,1972-12-26,VT,719-273-4738,Platinum,19571605,Other causes,2018-01-20,Auto,No,Material only,2880.0,1,No,1
+764,11982382,Male,1988-03-14,OH,439-628-2835,Gold,67588341,Other driver error,2018-09-19,Auto,No,Material only,1640.0,1,No,1
+765,33290806,Male,1996-08-29,FL,938-486-2376,Gold,7014549,Driver error,2017-01-14,Auto,No,Material only,2550.0,1,No,1
+766,39628347,Female,1970-06-10,SD,591-895-6541,Platinum,24046062,Other causes,2017-12-10,Auto,No,Material only,2220.0,5,No,1
+767,84277947,Female,1997-08-16,IL,364-165-1298,Silver,65853604,Natural causes,2017-11-06,Auto,No,Material only,2370.0,1,No,1
+768,95856464,Male,1999-06-03,WI,354-648-3765,Gold,30981307,Crime,2017-05-29,Auto,No,Material only,1120.0,1,No,1
+769,67335009,Female,1983-02-26,MA,732-284-9752,Platinum,45469731,Other causes,2017-04-18,Auto,Yes,Material and injury,20610.0,1,No,1
+770,8765210,Male,1973-05-27,WA,893-183-3164,Gold,99553356,Other causes,2017-07-08,Auto,No,Material and injury,34200.0,1,No,1
+771,77765211,Male,1981-10-08,NV,754-754-6471,Silver,94540900,Driver error,2018-05-01,Home,No,Material only,2580.0,1,No,1
+772,39035416,Male,1961-07-29,IA,785-836-9316,Platinum,91784105,Other causes,2017-08-11,Auto,Unknown,Material only,2540.0,2,No,0
+773,5264479,Male,1983-09-04,WI,738-216-9185,Gold,82709186,Other causes,2017-07-28,Auto,Unknown,Injury only,24220.0,1,No,0
+774,24769711,Male,1966-08-04,NH,159-574-8794,Silver,40794950,Driver error,2017-02-10,Auto,Yes,Material and injury,20380.0,2,No,1
+775,98142348,Male,1976-07-25,CA,416-278-7936,Platinum,97253910,Other causes,2017-07-22,Auto,No,Material only,2564.5,2,Yes,1
+776,22328083,Male,1972-09-15,MT,384-486-4537,Silver,17672041,Other causes,2017-05-02,Auto,Yes,Material and injury,30170.0,2,No,1
+777,85984961,Female,1982-08-29,CA,948-162-6123,Silver,42920871,Natural causes,2018-05-14,Auto,Unknown,Material only,3231.5,1,Yes,0
+778,46937376,Female,1994-02-15,AL,784-895-3481,Gold,4401566,Natural causes,2017-06-18,Auto,No,Material only,1980.0,1,No,1
+779,54252815,Female,1992-04-01,IN,625-425-9124,Gold,89430255,Other causes,2018-03-14,Auto,Unknown,Injury only,16680.0,1,No,0
+780,17774827,Male,1967-06-09,FL,239-143-5279,Gold,64295252,Other causes,2017-10-10,Auto,No,Material only,1370.0,1,No,1
+781,80544918,Female,1987-06-22,MS,739-748-9768,Platinum,60065436,Crime,2017-08-11,Auto,No,Material only,1430.0,1,No,1
+782,18818283,Female,1997-05-03,CT,179-136-6493,Platinum,12799217,Natural causes,2018-10-23,Auto,No,Material only,12467.68,3,No,1
+783,22370979,Male,1962-01-17,CO,768-829-7481,Silver,49968358,Other driver error,2017-02-17,Auto,Yes,Material and injury,24050.0,2,No,1
+784,88623068,Female,1978-05-14,FL,532-674-5268,Silver,78332196,Other causes,2017-12-17,Auto,Yes,Material and injury,15040.0,1,No,1
+785,89044601,Male,1964-10-21,AL,613-467-9145,Gold,56742072,Driver error,2017-10-24,Auto,No,Material and injury,17951.5,1,Yes,1
+786,73876237,Female,1975-01-27,AL,879-185-4857,Silver,98596005,Driver error,2018-09-12,Auto,No,Material only,2130.0,1,No,1
+787,47585713,Male,1971-04-20,ND,627-861-9247,Platinum,39451038,Other causes,2017-03-29,Auto,Unknown,Injury only,33140.0,1,No,0
+788,16981057,Female,1966-08-07,MT,685-645-1276,Gold,19691755,Other causes,2017-03-09,Auto,Yes,Injury only,30080.0,1,No,1
+789,32301882,Male,1967-05-31,NM,124-437-6728,Silver,35445367,Crime,2018-03-21,Auto,No,Material only,1310.0,1,No,1
+790,16717085,Male,1984-12-11,AR,172-426-6187,Gold,66768314,Other causes,2017-06-11,Auto,No,Material only,2740.0,2,No,1
+791,75192560,Female,1984-03-22,IA,784-943-8563,Platinum,68843304,Other driver error,2018-06-23,Auto,Yes,Injury only,37520.0,1,No,1
+792,24715429,Female,1981-03-23,WY,689-678-8591,Platinum,28290047,Natural causes,2018-03-28,Auto,Yes,Material only,2390.0,3,No,1
+793,2121802,Male,1980-08-27,PA,827-714-7821,Silver,73088898,Other causes,2017-02-17,Auto,Yes,Material and injury,32090.0,1,No,1
+794,30966524,Male,1985-01-31,RI,847-169-5361,Gold,23145140,Natural causes,2018-04-17,Auto,No,Injury only,16870.0,1,No,1
+795,63238733,Female,1993-09-08,AZ,268-398-8256,Gold,72238494,Other causes,2017-09-07,Auto,No,Injury only,12467.68,1,No,1
+796,39608351,Male,1983-12-03,IA,142-758-5874,Gold,58812093,Natural causes,2018-04-10,Auto,Yes,Material only,2750.0,1,No,1
+797,16453494,Female,1978-04-17,CT,786-768-5678,Silver,20354423,Other driver error,2018-04-17,Auto,Unknown,Material only,2480.0,1,No,0
+798,92789350,Male,1971-08-14,CT,486-257-6798,Silver,85043191,Other driver error,2018-02-02,Auto,No,Material only,1170.0,2,No,1
+799,83706741,Female,1971-11-13,NJ,368-385-8726,Silver,44561119,Crime,2017-12-24,Auto,Yes,Material only,2633.5,1,Yes,1
+800,92400577,Male,1971-05-14,MA,625-823-4875,Silver,58673943,Other causes,2018-06-23,Auto,No,Material only,12467.68,1,Yes,1
+801,90646435,Female,1978-12-07,IL,356-975-8315,Gold,84632427,Other causes,2018-09-19,Auto,Unknown,Injury only,25350.0,1,No,0
+802,56229221,Female,1993-07-03,DE,436-376-2349,Silver,62312763,Natural causes,2017-05-15,Auto,No,Material only,1520.0,1,No,1
+803,63788489,Male,1971-05-01,SC,549-471-1638,Platinum,52747205,Driver error,2017-08-11,Auto,No,Material only,1880.0,1,No,1
+804,49187749,Male,1984-02-03,FL,748-417-3164,Gold,7838178,Other causes,2017-10-10,Auto,No,Material and injury,16680.0,1,No,1
+805,58144290,Male,1979-01-08,TX,893-725-3847,Gold,10442615,Other causes,2018-07-07,Auto,No,Material only,1250.0,1,No,1
+806,21330507,Male,1962-03-13,TX,871-328-3185,Platinum,38981782,Other causes,2018-01-20,Home,No,Material only,12467.68,1,No,1
+807,21066098,Female,1962-08-16,LA,356-637-2735,Platinum,97484739,Crime,2017-01-27,Auto,No,Material only,2955.5,1,Yes,1
+808,46673661,Male,1997-10-28,MI,123-942-4267,Platinum,72837991,Other causes,2018-10-03,Home,No,Material only,1320.0,2,No,1
+809,48477164,Female,1976-10-20,NV,572-493-8516,Silver,88815908,Driver error,2017-09-07,Home,Unknown,Material and injury,48150.5,4,Yes,0
+810,42351519,Female,1979-07-03,GA,237-467-4729,Gold,68826444,Other causes,2017-04-25,Auto,No,Material only,2800.0,2,No,1
+811,25879245,Male,1982-06-11,WA,154-126-4286,Gold,18702553,Other causes,2017-07-01,Auto,No,Material only,1300.0,1,No,1
+812,86301193,Female,1980-12-23,LA,951-543-3542,Platinum,83092374,Driver error,2017-08-24,Home,No,Material and injury,25093.0,1,Yes,1
+813,12996134,Female,1971-06-28,AL,925-723-2589,Platinum,45401148,Natural causes,2017-07-22,Home,Unknown,Material only,2680.0,1,No,0
+814,44003496,Male,1962-12-30,CO,156-853-4153,Gold,80621398,Crime,2018-08-30,Auto,No,Material only,1400.0,1,No,1
+815,89737711,Male,1991-03-30,WA,641-148-4597,Platinum,35373452,Other causes,2018-03-28,Auto,Unknown,Material only,2800.0,1,No,0
+816,32560779,Female,1960-11-18,KS,715-238-2678,Gold,74625948,Other causes,2017-09-14,Auto,No,Material only,12467.68,2,No,1
+817,8039037,Female,1986-10-16,OH,714-274-5137,Gold,42553935,Other causes,2017-06-04,Auto,No,Material only,1210.0,1,No,1
+818,68723599,Male,1965-11-14,OR,264-348-3762,Silver,46925508,Other driver error,2017-07-01,Auto,No,Material only,1380.0,1,Yes,1
+819,46129941,Female,1999-03-16,WV,943-157-4137,Silver,42530425,Crime,2017-10-17,Auto,No,Material only,3277.5,8,Yes,1
+820,58098499,Female,1988-05-27,MN,756-876-1238,Silver,39745422,Other causes,2017-11-27,Auto,No,Injury only,27580.0,1,No,1
+821,12377926,Male,1999-11-11,MS,735-517-7849,Silver,32299664,Driver error,2018-03-28,Home,Yes,Injury only,14480.0,1,No,1
+822,20444103,Male,1980-01-17,KY,354-473-1357,Gold,27069739,Crime,2018-08-16,Auto,Unknown,Material only,1330.0,5,No,0
+823,89456307,Male,1996-08-03,ID,135-341-8196,Platinum,89389379,Natural causes,2017-10-04,Auto,No,Material only,2500.0,1,No,1
+824,15166995,Female,1977-03-26,NC,129-568-9713,Gold,95618668,Other causes,2018-01-13,Auto,No,Material and injury,20690.0,1,No,1
+825,38384757,Female,1997-02-09,KS,259-327-3729,Platinum,30888574,Other causes,2018-07-07,Auto,Unknown,Material only,1880.0,2,No,0
+826,74219574,Female,1967-10-28,NE,579-316-6573,Silver,98881244,Other driver error,2017-03-02,Auto,No,Material only,2700.0,1,No,1
+827,3967610,Female,1963-09-02,KS,947-413-6812,Platinum,12086981,Other driver error,2017-02-10,Auto,Unknown,Material and injury,26610.0,1,No,0
+828,441097,Male,1971-08-19,CA,187-348-8375,Gold,89833962,Other causes,2018-03-21,Auto,Yes,Material and injury,37040.0,1,No,1
+829,86992868,Male,1987-09-28,MS,826-714-7823,Silver,74884043,Driver error,2018-08-03,Auto,No,Material only,2500.0,2,No,1
+830,78277006,Female,1992-02-29,WI,146-531-2189,Platinum,60980916,Other causes,2017-07-15,Auto,Yes,Material and injury,25750.0,1,No,1
+831,83499843,Male,1988-12-03,ME,276-859-1849,Silver,85222695,Driver error,2017-12-17,Auto,No,Material and injury,18135.5,1,Yes,1
+832,71585789,Male,1970-10-10,WV,156-568-1835,Platinum,73426298,Driver error,2017-05-09,Home,Unknown,Material and injury,18963.5,1,Yes,0
+833,6342530,Female,1974-04-05,MO,852-547-4379,Silver,42449662,Other driver error,2018-10-23,Home,No,Material only,2940.0,1,No,1
+834,72081129,Male,1973-04-19,SC,124-584-4261,Gold,87951152,Crime,2018-10-23,Auto,No,Material only,1730.0,3,No,1
+835,2413612,Female,1962-06-24,MO,354-589-7983,Gold,39338816,Other causes,2017-11-20,Home,No,Material only,12467.68,1,No,1
+836,263204,Male,1972-12-20,TX,173-892-6314,Silver,40953049,Other causes,2018-04-04,Auto,No,Material and injury,39192.0,1,Yes,1
+837,8733543,Male,1993-08-29,IA,413-394-4173,Gold,70338835,Natural causes,2017-03-16,Auto,No,Material only,2300.0,1,No,1
+838,14792193,Female,1962-01-15,HI,587-954-9637,Gold,70820592,Other driver error,2018-06-10,Auto,Unknown,Material and injury,36440.0,1,No,0
+839,80581271,Male,1967-05-15,WI,179-763-7395,Platinum,92734593,Driver error,2017-05-02,Auto,No,Material only,1184.5,1,Yes,1
+840,18426154,Male,1960-06-07,NJ,879-485-1945,Gold,58440592,Other causes,2017-01-07,Auto,Yes,Material and injury,21590.0,1,No,1
+841,85689455,Female,1981-12-20,RI,285-326-1834,Gold,69374918,Other driver error,2017-04-18,Auto,No,Material only,1600.0,1,No,1
+842,64270813,Female,1996-03-13,WY,643-297-4563,Silver,52976799,Other driver error,2017-08-24,Auto,Unknown,Material only,1748.0,1,Yes,0
+843,51547112,Female,1966-01-09,CO,572-697-6125,Silver,49234916,Driver error,2017-07-28,Auto,No,Material only,2460.0,3,No,1
+844,48609526,Male,1970-07-29,MN,493-794-4563,Platinum,14015336,Driver error,2017-04-05,Auto,No,Injury only,29530.0,1,No,1
+845,49759488,Male,1966-05-27,CT,173-198-2416,Silver,94060921,Driver error,2018-02-09,Auto,Unknown,Material only,1667.5,1,Yes,0
+846,56075921,Female,1969-07-05,FL,148-396-5961,Platinum,27638017,Other driver error,2018-02-22,Auto,No,Material only,1587.0,4,Yes,1
+847,76916649,Female,1992-05-10,SC,854-921-6417,Silver,27133312,Other driver error,2017-06-25,Home,No,Material only,2550.0,4,No,1
+848,47565478,Female,1961-01-28,ND,786-685-8236,Silver,2893823,Natural causes,2017-05-09,Auto,No,Material only,2702.5,1,Yes,1
+849,18282409,Female,1973-09-29,AK,326-215-7361,Gold,94983900,Driver error,2017-08-11,Auto,No,Injury only,31020.0,2,No,1
+850,8715802,Female,1968-08-27,VT,573-719-2548,Silver,41574371,Natural causes,2017-05-29,Auto,Yes,Material only,2010.0,1,No,1
+851,42708350,Male,1995-04-29,MT,472-942-8126,Silver,33062200,Driver error,2017-06-18,Auto,No,Material only,2150.0,1,No,1
+852,39405635,Male,1975-03-19,ID,216-347-2435,Gold,58366436,Other causes,2017-05-09,Auto,Unknown,Material and injury,45540.0,1,Yes,0
+853,48038858,Female,1989-06-11,NY,374-852-9148,Silver,76730919,Other causes,2017-03-02,Auto,Unknown,Material only,1759.5,2,Yes,0
+854,15880215,Male,1989-04-29,WI,349-735-4516,Platinum,33341864,Other driver error,2017-05-29,Auto,Yes,Injury only,34200.0,1,No,1
+855,13088377,Female,1991-11-09,WY,794-928-4196,Platinum,60127984,Other causes,2017-10-10,Auto,Unknown,Material and injury,22270.0,4,No,0
+856,88870543,Female,1997-12-11,WV,591-659-9652,Platinum,43930771,Other driver error,2018-03-01,Auto,Yes,Material only,1300.0,3,No,1
+857,9339845,Male,1969-07-31,MO,976-293-9743,Gold,61586929,Driver error,2018-10-23,Auto,No,Material only,12467.68,1,No,1
+858,13926634,Male,1982-07-08,FL,653-896-2719,Platinum,14102754,Other causes,2018-10-03,Auto,No,Material only,2610.5,3,Yes,1
+859,18307355,Male,1968-11-09,ID,879-542-1978,Platinum,44965194,Other causes,2018-02-15,Auto,Yes,Material and injury,34210.0,1,No,1
+860,50436220,Male,1980-08-05,NJ,748-715-9783,Gold,14547597,Other driver error,2018-02-02,Auto,Unknown,Material and injury,34530.0,1,No,0
+861,66353946,Female,1979-11-20,KS,512-457-6923,Gold,78381090,Other driver error,2018-01-20,Auto,Unknown,Material and injury,26890.0,1,No,0
+862,39881716,Female,1979-01-27,CT,764-685-8523,Silver,15294101,Other driver error,2018-01-26,Auto,Unknown,Injury only,28040.0,2,No,0
+863,28239393,Male,1978-08-19,AL,569-268-4785,Platinum,68295218,Other driver error,2018-10-23,Auto,No,Material only,1230.0,4,No,1
+864,5237129,Male,1999-03-21,WY,392-746-4561,Platinum,99688746,Driver error,2018-06-17,Auto,Unknown,Injury only,19750.0,5,No,0
+865,19521118,Female,1970-12-21,SD,967-765-9625,Silver,60574108,Crime,2017-10-17,Auto,No,Material only,1380.0,1,No,1
+866,14892213,Female,1987-08-29,WV,413-256-8476,Gold,1897779,Other driver error,2017-01-21,Auto,No,Material only,2010.0,5,No,1
+867,53442249,Male,1981-05-23,VA,971-473-5832,Silver,41282358,Other causes,2017-02-23,Auto,No,Material only,1495.0,1,Yes,1
+868,45971331,Male,1994-08-28,AK,936-389-8497,Platinum,11175466,Natural causes,2018-01-20,Auto,Unknown,Injury only,32730.0,1,No,0
+869,79889146,Male,1975-05-21,MT,193-219-1842,Silver,12295612,Natural causes,2018-04-24,Auto,No,Material only,2587.5,3,Yes,1
+870,21774335,Male,1977-02-07,OK,127-839-1746,Gold,64295975,Natural causes,2018-09-06,Auto,No,Material only,12467.68,1,No,1
+871,66284489,Female,1995-04-10,OH,967-136-5829,Gold,51489109,Other driver error,2017-03-09,Auto,No,Material only,1630.0,4,No,1
+872,72488905,Female,1980-03-10,NM,275-826-8236,Platinum,29515311,Other causes,2017-11-06,Auto,Unknown,Injury only,26300.0,1,No,0
+873,93910149,Male,1996-08-10,HI,574-165-9841,Silver,60583331,Crime,2018-05-21,Auto,No,Material only,1960.0,1,No,1
+874,77116501,Female,1968-04-04,AR,915-934-5617,Platinum,32759962,Other driver error,2017-09-27,Auto,Unknown,Injury only,20490.0,7,No,0
+875,95822358,Female,1976-12-17,MD,851-432-1692,Silver,68432724,Other driver error,2018-02-22,Auto,Unknown,Injury only,16479.5,1,Yes,0
+876,54699348,Female,1975-08-30,NY,321-312-5267,Silver,56479721,Natural causes,2017-11-27,Home,Unknown,Material only,1980.0,3,No,0
+877,96496046,Female,1960-04-01,VA,965-645-9821,Platinum,15618827,Driver error,2018-02-15,Auto,No,Injury only,12467.68,1,No,1
+878,73869005,Female,1964-07-01,WV,695-428-9762,Gold,39893971,Other driver error,2017-08-18,Auto,No,Material only,2100.0,3,No,1
+879,83827717,Female,1988-01-24,NY,578-732-1238,Platinum,31031965,Natural causes,2017-09-27,Auto,Unknown,Material only,2290.0,1,No,0
+880,55401227,Male,1991-08-18,MA,143-594-1839,Gold,73781214,Natural causes,2017-10-31,Auto,Unknown,Material only,1190.0,1,No,0
+881,80295008,Female,1983-09-15,NY,542-369-9823,Platinum,73470467,Other causes,2018-01-20,Auto,Unknown,Injury only,21600.0,1,No,0
+882,28820055,Female,1987-12-05,RI,612-458-8546,Gold,75509840,Other causes,2017-10-04,Auto,No,Material only,1260.0,1,No,1
+883,93455439,Female,1972-02-20,MA,423-423-9561,Gold,94747735,Natural causes,2018-04-24,Home,No,Material only,2219.5,1,Yes,1
+884,19478893,Male,1968-03-01,GA,981-142-3251,Gold,37998905,Natural causes,2017-01-14,Auto,No,Material only,1910.0,1,No,1
+885,45419022,Female,1993-12-01,NY,127-875-1924,Gold,27093779,Other causes,2018-05-07,Auto,Unknown,Material only,1690.0,3,No,0
+886,49583926,Female,1990-08-02,MD,853-612-6958,Gold,72563310,Other causes,2017-04-25,Auto,Unknown,Material and injury,15750.0,1,No,0
+887,72296323,Male,1960-11-06,PA,287-152-8153,Platinum,3877364,Driver error,2018-07-07,Home,Unknown,Material only,2110.0,1,No,0
+888,10149231,Female,1992-03-22,FL,291-942-3485,Platinum,77526829,Other causes,2018-04-24,Auto,Unknown,Material and injury,34780.0,3,No,0
+889,93009704,Male,1998-07-16,ID,264-681-4759,Platinum,50804841,Driver error,2018-10-03,Auto,Unknown,Material only,1900.0,5,No,0
+890,60987956,Male,1982-04-26,MN,531-564-3296,Platinum,93323222,Other driver error,2017-05-22,Auto,No,Injury only,36500.0,1,No,1
+891,68709394,Female,1966-09-23,ID,461-259-2635,Silver,56764164,Other driver error,2017-01-14,Auto,No,Material and injury,36860.0,4,No,1
+892,27878628,Female,1960-08-08,ND,538-689-6358,Platinum,60095092,Crime,2018-04-17,Auto,No,Material only,2277.0,1,Yes,1
+893,90085898,Female,1965-02-26,AK,789-783-8149,Platinum,4607758,Natural causes,2018-10-03,Auto,No,Material only,3116.5,1,Yes,1
+894,56098966,Female,1967-03-23,ME,456-658-1623,Gold,11581354,Driver error,2018-02-09,Auto,No,Material only,2360.0,3,No,1
+895,69317965,Male,1979-06-08,VT,265-749-8245,Platinum,8299275,Driver error,2017-06-11,Auto,No,Material and injury,30340.0,1,No,1
+896,81968615,Male,1979-06-23,MT,397-495-7834,Gold,77574216,Natural causes,2017-07-15,Auto,No,Material and injury,23420.0,1,No,1
+897,83223514,Male,1997-06-28,SC,528-138-3187,Gold,84713547,Other driver error,2018-05-14,Auto,Yes,Injury only,30400.0,1,No,1
+898,78341228,Male,1986-11-26,SD,475-573-2957,Gold,4812972,Natural causes,2018-09-12,Auto,Unknown,Material only,2090.0,1,No,0
+899,41462913,Female,1961-10-24,WI,825-927-2861,Gold,34508507,Other driver error,2017-02-17,Auto,Unknown,Material and injury,29740.0,1,No,0
+900,80905889,Male,1962-12-13,UT,398-297-3568,Gold,11448070,Other driver error,2017-05-02,Auto,No,Material only,1680.0,1,No,1
+901,93822307,Male,1987-11-15,NE,534-856-2654,Platinum,88944238,Natural causes,2017-12-30,Auto,No,Material only,2940.0,1,No,1
+902,4889449,Male,1994-12-29,MT,574-832-2793,Platinum,92066571,Other driver error,2017-03-09,Auto,No,Material only,1207.5,1,Yes,1
+903,98199694,Female,1978-04-04,GA,562-319-1874,Platinum,18265792,Driver error,2017-04-05,Auto,No,Material and injury,22540.0,1,No,1
+904,50460892,Male,1961-05-06,ME,657-645-1346,Gold,57389964,Other driver error,2018-02-15,Auto,No,Injury only,31740.0,2,No,1
+905,42664554,Female,1993-08-13,TN,396-973-2531,Gold,42280334,Other causes,2017-01-01,Auto,No,Injury only,27670.0,1,No,1
+906,94943525,Male,1992-09-12,AR,612-362-1354,Gold,81995072,Driver error,2018-08-30,Auto,No,Material and injury,44470.5,2,Yes,1
+907,45434540,Male,1993-09-16,AK,942-916-1537,Silver,24456983,Natural causes,2018-01-13,Auto,No,Material only,2000.0,1,No,1
+908,88544496,Female,1975-05-16,VT,872-963-2459,Gold,64240245,Other causes,2018-03-21,Auto,Yes,Material only,2810.0,3,No,1
+909,36544565,Female,1987-05-17,WV,973-438-4792,Platinum,95800760,Other driver error,2018-05-21,Auto,Unknown,Material and injury,27330.0,3,No,0
+910,90234480,Male,1964-12-18,VA,517-291-4237,Platinum,1627727,Other causes,2017-06-11,Auto,No,Material only,2670.0,1,No,1
+911,40801256,Male,1986-08-13,NH,486-258-3256,Gold,25730111,Driver error,2017-02-23,Auto,Yes,Material and injury,26250.0,1,No,1
+912,67052896,Female,1966-07-08,SD,328-159-3275,Silver,70350962,Driver error,2018-04-17,Auto,Unknown,Material and injury,14690.0,1,No,0
+913,15323667,Female,1973-05-10,SD,489-326-8267,Silver,13820212,Driver error,2018-10-09,Auto,Unknown,Injury only,15270.0,4,No,0
+914,67070056,Male,1994-11-22,WV,825-189-8961,Platinum,86202352,Other causes,2017-02-03,Auto,No,Material only,2770.0,1,No,1
+915,20607084,Female,1968-04-23,GA,986-435-7468,Silver,60062359,Other driver error,2018-01-13,Auto,No,Injury only,37400.0,1,No,1
+916,86886743,Female,1966-10-06,NV,823-732-3156,Platinum,84492004,Other causes,2017-06-04,Home,No,Injury only,12467.68,1,No,1
+917,52995625,Female,1997-09-03,OK,129-598-3652,Gold,87291535,Other causes,2017-04-05,Auto,No,Material only,2310.0,1,No,1
+918,63137507,Male,1990-10-11,CO,347-689-5786,Platinum,1342627,Driver error,2017-10-10,Auto,No,Material only,3323.5,1,Yes,1
+919,56250763,Female,1967-01-02,RI,983-156-3481,Platinum,23693541,Other causes,2017-04-12,Auto,No,Material only,1570.0,1,No,1
+920,35593972,Male,1979-12-09,TN,854-195-3892,Gold,84040371,Other causes,2018-02-09,Home,No,Material only,1530.0,1,No,1
+921,86820732,Female,1966-04-25,MA,952-123-3526,Gold,16259239,Natural causes,2017-08-24,Auto,Unknown,Material only,1090.0,1,No,0
+922,45113346,Female,1969-04-22,UT,146-429-5398,Silver,91473446,Other causes,2017-04-18,Home,Unknown,Material only,1750.0,1,No,0
+923,54668401,Female,1960-10-10,NY,247-219-5483,Platinum,39454053,Natural causes,2018-01-20,Auto,No,Material only,2140.0,1,No,1
+924,80002521,Male,1977-08-19,NH,178-723-8945,Platinum,66931197,Natural causes,2017-05-15,Auto,No,Material only,12467.68,3,No,1
+925,14664886,Male,1989-01-31,VA,396-428-6874,Silver,15719219,Other causes,2017-08-24,Auto,No,Material only,2730.0,1,No,1
+926,29903212,Male,1989-12-16,DE,279-918-3268,Platinum,7136079,Driver error,2018-06-17,Auto,No,Material only,2668.0,2,Yes,1
+927,95628948,Male,1960-09-22,AR,647-458-1294,Platinum,61933109,Driver error,2018-07-14,Auto,Yes,Injury only,21160.0,1,No,1
+928,39497409,Female,1990-10-04,UT,976-537-8734,Silver,54131824,Other driver error,2018-03-01,Auto,Unknown,Injury only,32867.0,3,Yes,0
+929,77006226,Female,1998-02-13,TX,641-295-5498,Platinum,21146312,Driver error,2018-02-15,Auto,No,Material only,2930.0,1,No,1
+930,23252820,Female,1969-10-11,SC,674-215-4376,Silver,48945235,Other causes,2017-10-04,Auto,Unknown,Material only,2560.0,1,No,0
+931,96116969,Female,1982-11-14,AR,748-514-3246,Platinum,28439096,Natural causes,2018-01-20,Auto,No,Material only,2420.0,1,No,1
+932,46076664,Male,1960-08-02,PA,148-648-3179,Platinum,33479837,Driver error,2018-06-17,Auto,Unknown,Material only,1690.0,1,No,0
+933,91322083,Female,1983-04-28,CO,425-138-4538,Gold,93697901,Other causes,2017-05-15,Auto,Unknown,Material and injury,17370.0,3,No,0
+934,34414080,Female,1974-07-08,SC,645-754-1947,Silver,56728149,Other causes,2018-10-16,Auto,No,Injury only,13090.0,1,No,1
+935,87607433,Male,1996-05-31,LA,856-489-8236,Gold,10494374,Driver error,2018-01-20,Auto,Yes,Material and injury,33620.0,1,No,1
+936,99892000,Male,1995-06-08,OR,395-246-6172,Gold,22960702,Driver error,2017-11-13,Auto,No,Material only,2415.0,2,Yes,1
+937,74633480,Male,1966-06-22,MI,598-245-7941,Gold,7299594,Other causes,2017-12-30,Auto,Yes,Material only,2790.0,3,No,1
+938,16859101,Female,1961-06-30,NJ,639-138-8341,Silver,57309481,Other driver error,2017-04-18,Auto,Unknown,Material only,1970.0,5,No,0
+939,92362143,Male,1986-02-13,ID,793-679-4175,Gold,43076500,Other driver error,2017-04-25,Auto,No,Material only,1200.0,1,No,1
+940,41291823,Male,1987-01-08,OR,982-936-8792,Gold,80228119,Other driver error,2017-12-24,Auto,No,Material and injury,12467.68,1,No,1
+941,46710738,Male,1977-04-28,MO,962-834-9361,Gold,74761374,Driver error,2018-10-30,Auto,No,Material only,1830.0,1,No,1
+942,47415706,Female,1961-08-08,DE,179-574-5837,Gold,77192370,Other driver error,2017-08-04,Auto,Unknown,Material and injury,18457.5,1,Yes,0
+943,83944124,Male,1984-10-19,NM,984-483-1653,Gold,85699790,Crime,2017-10-24,Auto,Unknown,Material only,12467.68,1,No,0
+944,58198965,Female,1990-07-20,WV,752-392-1925,Platinum,3258377,Other driver error,2017-12-17,Auto,Yes,Material and injury,30670.0,1,No,1
+945,80503762,Male,1996-09-25,UT,892-124-9765,Silver,72439038,Other causes,2017-02-10,Auto,No,Material only,2380.5,1,Yes,1
+946,15214936,Male,1963-03-06,OR,295-845-1275,Silver,65407446,Driver error,2017-11-13,Auto,No,Material and injury,40135.0,2,Yes,1
+947,81970531,Female,1965-02-01,MI,513-368-1948,Platinum,34485325,Driver error,2017-10-31,Auto,Unknown,Material and injury,29200.0,1,No,0
+948,12826843,Female,1989-08-16,WI,924-524-2158,Platinum,834460,Crime,2017-10-24,Home,Unknown,Material only,1340.0,1,No,0
+949,20643817,Female,1970-05-15,OK,542-287-9413,Gold,8586230,Natural causes,2017-10-17,Auto,No,Material only,1800.0,1,No,1
+950,38369440,Female,1991-08-05,NJ,742-182-2491,Silver,3159125,Natural causes,2018-05-01,Auto,No,Material only,2780.0,1,No,1
+951,69427973,Female,1977-04-10,NC,875-685-4195,Platinum,93334054,Other causes,2017-03-22,Auto,Unknown,Material and injury,12467.68,1,No,0
+952,3497881,Male,1975-06-12,MD,873-612-3918,Gold,67873056,Driver error,2017-11-27,Auto,No,Material and injury,42021.0,1,Yes,1
+953,46678650,Male,1963-08-10,GA,527-735-4351,Gold,4337976,Other driver error,2017-07-01,Auto,No,Material only,2200.0,3,No,1
+954,17664425,Male,1993-07-13,IL,961-243-4972,Gold,69599342,Driver error,2017-01-21,Auto,No,Material only,2196.5,5,Yes,1
+955,41128407,Male,1966-07-09,SD,812-324-7932,Silver,85590604,Other causes,2017-01-07,Auto,No,Injury only,36670.0,2,No,1
+956,75884493,Female,1969-07-27,VT,196-435-7259,Gold,3110549,Other driver error,2018-09-06,Auto,Yes,Material and injury,35310.0,6,No,1
+957,22580068,Female,1961-04-08,NM,645-965-3267,Silver,71846514,Other driver error,2018-05-28,Auto,Unknown,Material only,3151.0,1,Yes,0
+958,49170442,Male,1985-12-22,HI,821-347-4893,Silver,90284502,Other causes,2018-05-07,Auto,No,Material and injury,42872.0,1,Yes,1
+959,76962128,Female,1993-07-16,MD,295-234-8213,Platinum,6099788,Natural causes,2018-04-10,Auto,No,Material only,2420.0,1,No,1
+960,72991636,Female,1989-11-24,DE,258-596-5932,Silver,43244704,Natural causes,2017-07-28,Auto,Yes,Material and injury,32750.0,4,No,1
+961,24053072,Male,1989-02-05,ND,573-549-3541,Silver,45780412,Natural causes,2017-10-10,Auto,No,Material only,2490.0,1,No,1
+962,68458649,Female,1979-01-19,NC,264-287-3795,Platinum,13883455,Natural causes,2017-08-31,Auto,No,Material only,1960.0,5,No,1
+963,98401399,Female,1968-10-07,IA,219-593-1674,Silver,35136402,Natural causes,2018-09-06,Auto,Unknown,Injury only,24900.0,1,No,0
+964,8310837,Male,1986-06-13,IA,498-387-9816,Silver,73875239,Other driver error,2017-01-07,Auto,Yes,Injury only,35280.0,2,No,1
+965,99170243,Male,1993-08-03,OH,534-435-2968,Platinum,1249826,Other driver error,2017-01-21,Auto,No,Material only,2260.0,1,No,1
+966,33314915,Female,1991-10-21,LA,581-835-6243,Platinum,15818104,Other driver error,2018-03-28,Auto,No,Material only,1610.0,1,Yes,1
+967,58693933,Male,1977-12-21,MS,892-871-4967,Platinum,55042907,Driver error,2017-05-09,Auto,No,Material only,2070.0,1,Yes,1
+968,65898442,Female,1968-09-25,MO,197-948-5692,Platinum,22670081,Natural causes,2017-09-27,Auto,No,Material only,2990.0,1,No,1
+969,40303052,Male,1986-04-22,OH,756-974-6729,Gold,24713082,Driver error,2018-06-30,Home,Yes,Injury only,22440.0,1,No,1
+970,94030912,Female,1995-02-06,NC,358-672-8271,Gold,40182876,Other causes,2018-07-07,Auto,Yes,Material only,3093.5,1,Yes,1
+971,76282379,Female,1988-10-26,OH,293-325-8742,Platinum,92237733,Other causes,2018-10-16,Auto,Unknown,Material and injury,22850.0,1,No,0
+972,62528525,Male,1980-10-06,LA,964-932-9364,Platinum,89085163,Natural causes,2017-09-07,Auto,No,Material only,12467.68,1,No,1
+973,69526996,Female,1999-01-09,ND,372-583-6278,Silver,67252475,Crime,2017-07-28,Auto,No,Material only,1740.0,2,No,1
+974,88566888,Male,1985-08-15,LA,982-362-7125,Silver,46452514,Crime,2018-10-09,Auto,No,Material only,2430.0,3,No,1
+975,30015627,Male,1969-09-11,SC,254-523-1634,Silver,66301062,Natural causes,2018-09-12,Auto,Yes,Material only,2208.0,4,Yes,1
+976,70088729,Male,1962-12-06,WI,453-475-2863,Silver,30422665,Driver error,2017-01-07,Home,No,Material only,1552.5,1,Yes,1
+977,53042145,Female,1964-10-04,TN,139-746-7128,Platinum,9261301,Other causes,2018-10-23,Auto,Unknown,Material only,2553.0,4,Yes,0
+978,12499211,Female,1968-12-15,MA,851-792-1325,Gold,49457139,Other causes,2018-08-16,Auto,No,Material only,3139.5,1,Yes,1
+979,3915010,Male,1987-05-30,VA,832-789-5916,Platinum,79750669,Other causes,2018-10-16,Auto,Unknown,Material and injury,19820.0,1,No,0
+980,23094322,Female,1993-01-08,RI,138-136-4367,Gold,7944120,Other causes,2018-08-10,Home,Yes,Material and injury,35800.0,1,No,1
+981,95863439,Male,1983-02-20,CT,465-372-5829,Gold,519194,Natural causes,2017-03-29,Home,Unknown,Material only,2510.0,1,No,0
+982,72212627,Male,1985-09-09,SD,693-927-5932,Silver,76136365,Crime,2017-03-02,Auto,No,Injury only,14250.0,1,No,1
+983,49164086,Male,1962-07-09,OR,691-483-5398,Gold,75321090,Other driver error,2017-04-25,Auto,No,Material only,3093.5,4,Yes,1
+984,44050095,Male,1977-06-04,DE,314-298-9257,Platinum,17396013,Driver error,2017-03-22,Auto,Unknown,Material and injury,20458.5,1,Yes,0
+985,10198314,Female,1980-11-10,WI,176-861-1936,Platinum,50022306,Other causes,2018-05-01,Auto,Unknown,Injury only,28658.0,1,Yes,0
+986,84861652,Male,1978-06-04,NY,241-947-3176,Gold,60050677,Natural causes,2018-06-03,Auto,No,Material only,1290.0,1,No,1
+987,88489646,Female,1971-05-17,WA,278-241-1657,Gold,88309120,Other driver error,2017-10-17,Auto,No,Material only,2360.0,1,No,1
+988,89364843,Male,1969-01-05,SD,837-432-3471,Gold,12015495,Other causes,2017-09-27,Auto,No,Material only,12467.68,1,No,1
+989,29459103,Female,1986-05-05,MS,413-741-7425,Silver,78685929,Natural causes,2017-07-01,Auto,No,Injury only,12467.68,1,Yes,1
+990,86164274,Male,1962-12-28,SC,843-361-2796,Platinum,16402994,Other causes,2018-09-26,Home,Unknown,Material and injury,15760.0,1,No,0
+991,41858669,Female,1969-04-23,WY,694-974-1367,Silver,55314900,Driver error,2018-07-14,Auto,No,Material only,1610.0,2,No,1
+992,9113953,Female,1973-07-14,IL,123-748-9215,Silver,58070797,Other causes,2018-04-10,Home,No,Material only,2090.0,1,No,1
+993,6984936,Female,1992-04-21,NM,546-428-8532,Platinum,83283000,Driver error,2018-06-10,Auto,Yes,Material and injury,25210.0,3,No,1
+994,37686146,Male,1972-01-08,OK,974-576-2485,Silver,26832,Other causes,2018-07-07,Auto,No,Material only,1510.0,1,No,1
+995,86088574,Female,1972-02-15,OH,317-643-4523,Gold,704775,Driver error,2017-09-20,Auto,No,Injury only,40951.5,1,Yes,1
+996,73685982,Female,1998-03-12,WV,943-981-6734,Platinum,16221546,Other driver error,2017-05-02,Home,No,Material only,1470.0,1,No,1
+997,63279444,Male,1990-10-14,NY,812-481-7352,Gold,94799556,Other causes,2017-10-04,Home,No,Material only,1587.0,4,Yes,1
+998,84080228,Male,1969-11-10,NV,652-429-1295,Silver,92320208,Natural causes,2017-04-12,Auto,Yes,Material and injury,23483.0,4,Yes,1
+999,99723844,Female,1966-06-19,HI,457-752-1374,Gold,35453672,Natural causes,2018-01-06,Auto,Yes,Material and injury,14360.0,1,No,1
+1000,885337,Male,1962-02-17,HI,321-534-5263,Platinum,86240106,Driver error,2017-07-01,Auto,No,Material only,2490.0,2,No,1
+1001,22125988,Female,1993-11-23,MS,938-182-5821,Silver,14704752,Natural causes,2018-07-07,Auto,No,Material only,2710.0,1,No,1
+1002,79391302,Male,1984-10-30,UT,425-721-8315,Silver,78672117,Other causes,2017-06-04,Auto,No,Material only,2500.0,2,No,1
+1003,75483302,Female,1982-06-19,MA,517-792-6423,Platinum,42731329,Natural causes,2018-04-10,Auto,No,Material only,1770.0,5,No,1
+1004,86977672,Female,1969-09-23,KY,539-124-8432,Platinum,71383085,Crime,2017-01-07,Auto,No,Material only,1530.0,2,No,1
+1005,7703371,Female,1997-02-07,VT,418-179-2358,Gold,59393861,Natural causes,2017-03-09,Auto,No,Material only,1350.0,1,No,1
+1006,69101618,Male,1961-05-09,CT,628-392-7835,Silver,93708812,Driver error,2017-02-23,Auto,No,Material and injury,29220.0,3,No,1
+1007,20681481,Male,1982-10-20,RI,496-453-2738,Gold,89455788,Other causes,2017-03-16,Auto,No,Material only,2720.0,1,No,1
+1008,9897266,Female,1974-05-30,VT,768-896-9716,Gold,4802134,Other causes,2017-06-25,Auto,Yes,Injury only,27350.0,1,No,1
+1009,69165409,Female,1994-10-11,NY,843-784-1843,Silver,78804570,Other causes,2018-09-12,Auto,No,Material and injury,19390.0,1,No,1
+1010,97226830,Male,1980-10-23,AZ,654-347-5163,Gold,7211846,Other driver error,2018-04-04,Auto,No,Material only,2900.0,2,No,1
+1011,66788290,Male,1984-11-08,KS,735-872-2517,Silver,4186299,Driver error,2018-05-21,Auto,Yes,Injury only,33360.0,1,No,1
+1012,67697862,Male,1993-01-22,MN,286-291-2315,Silver,24121111,Other causes,2018-08-16,Auto,No,Material only,2320.0,1,No,1
+1013,69623124,Female,1967-11-25,OR,765-763-6743,Silver,63877619,Other causes,2018-05-21,Auto,No,Material only,1180.0,2,No,1
+1014,86445910,Female,1991-09-07,RI,728-486-9516,Platinum,26344933,Natural causes,2018-10-03,Auto,Unknown,Material only,2470.0,1,No,0
+1015,48445766,Male,1980-11-21,AR,657-359-2536,Platinum,97210536,Other driver error,2018-02-15,Auto,No,Material only,1000.0,2,No,1
+1016,74787956,Male,1989-06-19,TX,679-514-5894,Gold,12612736,Driver error,2017-09-14,Auto,Unknown,Material only,12467.68,1,No,0
+1017,45364348,Male,1967-06-13,IA,342-564-3152,Gold,46839282,Driver error,2017-11-20,Auto,No,Material only,2990.0,1,No,1
+1018,81661419,Male,1980-02-12,ID,486-416-1928,Platinum,69454875,Driver error,2018-04-04,Auto,No,Material only,2852.0,2,Yes,1
+1019,78301168,Male,1999-11-28,CT,516-179-8162,Silver,63402766,Other driver error,2018-03-21,Auto,Unknown,Material only,1370.0,1,No,0
+1020,91447671,Male,1976-12-18,IL,298-195-6512,Silver,51060336,Driver error,2018-06-03,Auto,No,Material only,1370.0,1,No,1
+1021,23445933,Female,1966-01-01,MS,657-568-6495,Platinum,26058387,Crime,2017-12-30,Auto,No,Material only,1670.0,2,No,1
+1022,86320995,Male,1991-07-04,IN,978-347-9514,Gold,87968374,Other driver error,2017-03-16,Home,No,Material only,1720.0,1,No,1
+1023,77134414,Male,1983-07-10,AL,693-239-2865,Silver,30903408,Other driver error,2017-01-07,Auto,Unknown,Injury only,28760.0,1,No,0
+1024,71986983,Female,1982-10-15,UT,497-684-3678,Platinum,35001150,Other driver error,2018-07-20,Auto,Unknown,Material only,1180.0,4,No,0
+1025,28528424,Female,1960-03-02,ND,592-738-9582,Platinum,54291209,Other causes,2018-07-14,Auto,No,Material only,12467.68,1,No,1
+1026,26346266,Male,1971-03-25,NM,397-468-8746,Platinum,78011323,Driver error,2017-02-03,Auto,No,Material only,3346.5,1,Yes,1
+1027,71259315,Male,1986-11-06,IA,197-824-7356,Gold,30441336,Natural causes,2017-04-12,Auto,No,Material only,2110.0,1,No,1
+1028,78119838,Male,1979-04-12,AL,268-851-1528,Silver,92741962,Driver error,2018-05-14,Auto,No,Material only,1750.0,1,No,1
+1029,27598176,Female,1965-01-29,TN,436-192-5639,Platinum,22032611,Driver error,2018-01-13,Auto,No,Material and injury,48035.5,1,Yes,1
+1030,83135621,Male,1977-02-22,NH,986-541-8762,Platinum,65984723,Other driver error,2017-08-18,Auto,No,Material only,1240.0,1,No,1
+1031,51760038,Female,1989-12-09,IN,958-286-8926,Platinum,4338441,Other driver error,2017-02-17,Auto,No,Material only,2800.0,1,No,1
+1032,91002298,Male,1998-04-09,MA,349-124-3976,Gold,99300549,Natural causes,2017-04-05,Auto,No,Injury only,34010.0,1,No,1
+1033,16906248,Female,1962-06-20,CA,278-253-8457,Gold,10271722,Other driver error,2018-06-03,Auto,No,Material only,1780.0,1,No,1
+1034,93133213,Male,1963-11-11,NJ,486-592-4186,Silver,35521654,Natural causes,2018-03-01,Home,No,Material only,1480.0,1,No,1
+1035,18369428,Male,1993-05-03,OK,256-457-9645,Gold,22576028,Other causes,2017-08-11,Auto,No,Material only,1472.0,1,Yes,1
+1036,71676845,Male,1994-04-07,IN,549-982-1984,Silver,83884815,Other driver error,2018-07-27,Auto,No,Material only,12467.68,3,No,1
+1037,68067526,Male,1979-08-05,WY,871-381-6378,Silver,47990199,Driver error,2017-07-15,Auto,No,Material only,1330.0,1,No,1
+1038,97169446,Female,1975-06-05,WY,438-219-7419,Platinum,68110055,Other driver error,2018-02-15,Auto,No,Material only,1780.0,5,No,1
+1039,44453657,Female,1996-12-03,NC,467-984-2893,Gold,28106228,Driver error,2017-01-07,Auto,No,Material only,1276.5,1,Yes,1
+1040,32646041,Female,1979-06-07,ID,815-567-6153,Platinum,60315464,Driver error,2017-02-17,Home,No,Material and injury,28520.0,1,Yes,1
+1041,41946743,Female,1970-09-26,WA,756-245-4789,Gold,11179944,Other driver error,2018-05-21,Auto,No,Injury only,17870.0,6,No,1
+1042,74207825,Female,1965-03-15,MI,173-637-9613,Platinum,24082779,Other driver error,2018-04-24,Home,No,Material only,2380.0,1,No,1
+1043,24247743,Female,1988-05-24,ID,792-136-5173,Silver,61365788,Other causes,2018-05-14,Auto,No,Material only,2280.0,1,No,1
+1044,69608621,Female,1968-10-21,MD,523-793-4315,Silver,50618311,Other causes,2017-07-08,Auto,No,Material only,1357.0,1,Yes,1
+1045,72664684,Female,1996-12-28,ND,964-582-8145,Platinum,67344180,Other causes,2017-07-28,Home,Unknown,Material only,2590.0,1,No,0
+1046,18174078,Female,1985-04-07,GA,945-398-3528,Gold,17213671,Other driver error,2018-02-02,Auto,No,Material only,2852.0,4,Yes,1
+1047,34756508,Male,1997-05-31,RI,182-247-2167,Silver,39886036,Natural causes,2018-07-07,Auto,No,Material only,1690.0,1,No,1
+1048,608461,Male,1994-12-17,AR,963-187-2873,Platinum,7180084,Crime,2018-07-14,Auto,No,Material only,2630.0,1,No,1
+1049,12015897,Male,1971-11-16,WA,465-854-9358,Silver,67060119,Driver error,2018-10-09,Auto,Unknown,Material only,2270.0,6,No,0
+1050,60965575,Female,1980-09-12,OH,526-741-6397,Silver,81779336,Other driver error,2018-03-21,Auto,No,Material and injury,19895.0,1,Yes,1
+1051,81634435,Male,1988-07-30,AR,937-675-5842,Gold,93043462,Other driver error,2017-01-27,Home,Unknown,Material and injury,12467.68,1,No,0
+1052,67849662,Female,1991-08-25,PA,143-543-9264,Silver,37077391,Natural causes,2017-06-25,Auto,Yes,Injury only,35920.0,1,No,1
+1053,96439036,Male,1989-06-29,AK,359-671-3659,Gold,45865218,Other causes,2018-08-10,Auto,Yes,Injury only,26320.0,1,No,1
+1054,51033228,Male,1985-10-13,IN,534-462-2657,Gold,50927161,Driver error,2018-10-23,Auto,No,Material and injury,30890.0,2,No,1
+1055,58451506,Male,1968-04-22,FL,673-574-7823,Gold,43042986,Natural causes,2018-10-30,Auto,No,Material only,2420.0,1,No,1
+1056,26734721,Male,1972-07-02,CT,659-876-5694,Gold,42636878,Natural causes,2017-09-14,Auto,No,Material only,1720.0,1,No,1
+1057,20923121,Female,1976-07-05,NY,617-927-8491,Silver,78104894,Natural causes,2018-05-14,Auto,No,Material and injury,31210.0,1,No,1
+1058,56425562,Female,1963-03-18,GA,823-712-3528,Platinum,38011383,Natural causes,2017-09-14,Auto,No,Material only,1670.0,1,No,1
+1059,79174311,Female,1978-05-26,CO,312-798-5213,Platinum,91976551,Natural causes,2018-08-30,Auto,No,Material only,2162.0,5,Yes,1
+1060,30119782,Female,1990-06-11,WA,753-397-4823,Gold,31517760,Other driver error,2017-10-17,Auto,Unknown,Material only,2242.5,1,Yes,0
+1061,57267299,Male,1970-02-11,VT,128-576-3825,Silver,365998,Other driver error,2017-12-03,Auto,Yes,Material and injury,25140.0,2,No,1
+1062,90217818,Female,1980-05-18,TN,891-651-8671,Gold,85546357,Other driver error,2017-06-04,Auto,No,Injury only,37743.0,1,Yes,1
+1063,70708127,Female,1975-01-18,TX,189-276-3957,Platinum,67763980,Natural causes,2018-09-19,Auto,No,Material only,1150.0,1,Yes,1
+1064,75934330,Female,1987-10-09,ME,951-941-3975,Platinum,56358443,Natural causes,2017-01-01,Auto,Yes,Injury only,20630.0,1,No,1
+1065,71288937,Female,1974-07-03,AR,692-817-1972,Gold,77696516,Other causes,2017-11-20,Auto,No,Material only,1230.0,1,No,1
+1066,81526763,Female,1984-10-09,OH,592-192-8417,Gold,15231655,Other causes,2017-02-03,Auto,Unknown,Material only,2323.0,3,Yes,0
+1067,78064067,Female,1999-11-04,MS,713-457-9846,Gold,50845008,Natural causes,2018-09-06,Auto,No,Material only,1090.0,5,No,1
+1068,29854604,Male,1975-09-02,WI,214-457-4352,Gold,57326503,Other driver error,2018-07-20,Auto,No,Material and injury,44033.5,1,Yes,1
+1069,8684318,Male,1969-05-28,NE,145-563-2137,Gold,91946746,Other driver error,2017-02-03,Home,Yes,Material only,2670.0,2,No,1
+1070,46513280,Female,1983-01-02,CO,124-652-9816,Silver,25244745,Other causes,2017-12-30,Auto,No,Material only,2070.0,1,No,1
+1071,6104555,Male,1982-10-01,CT,456-218-8516,Gold,65497756,Natural causes,2017-07-28,Auto,Unknown,Material only,1050.0,1,No,0
+1072,51669975,Female,1988-02-05,ND,975-463-9541,Silver,50800999,Other causes,2018-09-19,Home,Yes,Injury only,38950.0,1,No,1
+1073,3205230,Male,1977-03-10,NC,352-354-2546,Platinum,14230070,Driver error,2018-08-23,Auto,No,Material only,2730.0,3,No,1
+1074,87596868,Male,1961-11-18,AZ,573-396-3182,Silver,36599575,Driver error,2018-10-09,Auto,Unknown,Injury only,33330.0,2,No,0
+1075,82089910,Male,1973-10-09,FL,257-248-4825,Silver,28084004,Driver error,2018-06-03,Auto,No,Material only,2780.0,1,No,1
+1076,57452643,Female,1981-07-10,HI,348-562-2673,Platinum,87294246,Crime,2017-01-21,Home,No,Material only,1380.0,3,No,1
+1077,65208809,Male,1964-04-22,VA,286-128-6132,Platinum,91386759,Natural causes,2018-10-30,Auto,No,Material only,2290.0,1,No,1
+1078,6756905,Male,1997-10-21,NE,924-427-8125,Silver,47457836,Driver error,2017-01-21,Auto,No,Material only,2320.0,3,No,1
+1079,46850495,Male,1962-08-21,NV,761-193-2346,Platinum,72025178,Other causes,2017-11-27,Auto,Yes,Material only,2173.5,1,Yes,1
+1080,79539873,Female,1981-03-15,ND,459-425-4319,Platinum,62020796,Other driver error,2018-09-06,Auto,Yes,Material only,1770.0,1,No,1
+1081,42364152,Female,1996-07-07,ID,529-462-1635,Silver,63269067,Other causes,2017-05-09,Home,No,Material only,2800.0,1,No,1
+1082,19888166,Male,1990-04-11,WI,712-651-9613,Gold,22690595,Other driver error,2017-05-15,Auto,Yes,Injury only,33080.0,2,No,1
+1083,11256802,Female,1964-10-22,LA,469-345-5617,Silver,12376894,Other driver error,2017-04-18,Auto,No,Material only,2840.0,4,No,1
+1084,61575264,Male,1995-07-12,WY,182-385-1392,Gold,63226031,Natural causes,2017-03-16,Auto,No,Material only,1490.0,1,No,1
